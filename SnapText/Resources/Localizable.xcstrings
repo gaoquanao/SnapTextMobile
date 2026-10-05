@@ -1,0 +1,7250 @@
+{
+  "sourceLanguage": "zh-Hans",
+  "strings": {
+    "（可选）添加动作 3：「显示通知」，正文用快捷指令的「提供输入」": {
+      "extractionState": "stale",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "(Optional) Add action 3: \"Show Notification\" with body \"Provided Input\""
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "(Opcional) Añade la acción 3: «Mostrar notificación» con el cuerpo «Proporcionar entrada»"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "（任意）アクション3を追加：「通知を表示」、本文はショートカットの「入力を提供」"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "(선택) 동작 3 추가: '알림 표시', 본문은 단축어의 '입력 제공'"
+          }
+        }
+      }
+    },
+    "「轻点两下」选择上述快捷指令": {
+      "extractionState": "stale",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Assign the shortcut to \"Double Tap\""
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Asigna el atajo a «Tocar dos veces»"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "「ダブルタップ」に上記のショートカットを割り当て"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "'두 번 탭'에 위 단축어 지정"
+          }
+        }
+      }
+    },
+    "「轻点两下」选择配方 A 的快捷指令": {
+      "extractionState": "stale",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Assign Recipe A's shortcut to \"Double Tap\""
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Asigna el atajo de la receta A a «Tocar dos veces»"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "「ダブルタップ」にレシピAのショートカットを割り当て"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "'두 번 탭'에 레시피 A 단축어 지정"
+          }
+        }
+      }
+    },
+    "# 拾文 · 全部归档": {
+      "extractionState": "stale",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "# SnapText · All archives"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "# SnapText · Todos los archivos"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "# SnapText・すべてのアーカイブ"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "# SnapText · 전체 보관함"
+          }
+        }
+      }
+    },
+    "#%@": {},
+    "%@": {},
+    "%@ · %@": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "new",
+            "value": "%1$@ · %2$@"
+          }
+        }
+      }
+    },
+    "%lld 块": {
+      "extractionState": "stale",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%lld selected"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%lld seleccionados"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%lld個"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%lld개"
+          }
+        }
+      }
+    },
+    "1.1": {},
+    "FaceID 隐私锁": {
+      "extractionState": "stale",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Face ID privacy lock"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Bloqueo con Face ID"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Face IDプライバシーロック"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Face ID 개인정보 잠금"
+          }
+        }
+      }
+    },
+    "Obsidian Vault 名称": {
+      "extractionState": "stale",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Obsidian vault name"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Nombre del Vault de Obsidian"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Obsidian Vault名"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Obsidian Vault 이름"
+          }
+        }
+      }
+    },
+    "Obsidian 的 Vault 名称必须与 App 内完全一致（可在 Obsidian 左下角切换库中查看）；模板里的 URL Scheme 需目标应用已安装。配置后用「发送测试笔记」验证。": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "The vault name must match Obsidian exactly (check the vault switcher in Obsidian's bottom-left). The template's URL scheme requires the target app to be installed. Use \"Send a Test Note\" to verify."
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "El nombre del vault debe coincidir exactamente con Obsidian (míralo en el selector de la esquina inferior izquierda). El URL scheme requiere que la app destino esté instalada. Verifica con «Enviar nota de prueba»."
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Vault名はObsidian内の表記と完全に一致させてください（左下の保管庫切替で確認可）。テンプレートのURLスキームは対象アプリのインストールが必要です。「テストノートを送信」で確認できます。"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Vault 이름은 Obsidian과 정확히 일치해야 합니다(왼쪽 아래 보관소 전환에서 확인). 템플릿의 URL 스킴은 대상 앱이 설치되어 있어야 합니다. '테스트 노트 보내기'로 확인하세요."
+          }
+        }
+      }
+    },
+    "Vision OCR · 始终开启": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Vision OCR · Always on"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Vision OCR · Siempre activo"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Vision OCR・常時オン"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Vision OCR · 항상 켜짐"
+          }
+        }
+      }
+    },
+    "三种方式，随手捕获": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Three Ways to Capture"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tres formas de capturar"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "3つの取り込み方"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "세 가지 수집 방법"
+          }
+        }
+      }
+    },
+    "下一步": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Next"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Siguiente"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "次へ"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "다음"
+          }
+        }
+      }
+    },
+    "中文 + 英文": {
+      "extractionState": "stale",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Chinese + English"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Chino + inglés"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "中国語＋英語"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "중국어 + 영어"
+          }
+        }
+      }
+    },
+    "中文 + 英文 + 日文": {
+      "extractionState": "stale",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Chinese + English + Japanese"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Chino + inglés + japonés"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "中国語＋英語＋日本語"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "중국어 + 영어 + 일본어"
+          }
+        }
+      }
+    },
+    "中文 + 英文 + 日文 + 韩文": {
+      "extractionState": "stale",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Chinese + English + Japanese + Korean"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Chino + inglés + japonés + coreano"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "中国語＋英語＋日本語＋韓国語"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "중국어 + 영어 + 일본어 + 한국어"
+          }
+        }
+      }
+    },
+    "中文 + 英文 + 西班牙语": {
+      "extractionState": "stale",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Chinese + English + Spanish"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Chino + inglés + español"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "中国語＋英語＋スペイン語"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "중국어 + 영어 + 스페인어"
+          }
+        }
+      }
+    },
+    "仅识别截图文本并返回，方便在快捷指令中继续加工。": {
+      "extractionState": "stale",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Just returns the recognized text for further shortcut steps."
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Solo devuelve el texto reconocido para seguir procesándolo en el atajo."
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "スクリーンショットのテキストだけを認識して返します。ショートカットで自由に加工できます。"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "스크린샷 텍스트만 인식해 반환합니다. 단축어에서 이어서 가공하기 좋습니다."
+          }
+        }
+      }
+    },
+    "从分享面板送入拾文，立即识别归档": {
+      "extractionState": "stale",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Send it to SnapText from the share sheet — recognized and archived instantly"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Envíala a SnapText desde la hoja de compartir: se reconoce y archiva al instante"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "共有シートからSnapTextへ。すぐに認識して保存します"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "공유 시트에서 SnapText로 보내면 바로 인식해 보관합니다"
+          }
+        }
+      }
+    },
+    "从相册选择（可多选）": {
+      "extractionState": "stale",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Choose from Photos (multi-select)"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Elegir de Fotos (varias)"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "写真から選択（複数選択可）"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "사진에서 선택(여러 장 가능)"
+          }
+        }
+      }
+    },
+    "以上方式都不需要在快捷指令里组装步骤，装上即可使用。首次使用会请求相册权限。": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "None of these require building anything in the Shortcuts app — just install and go. Photo access is requested on first use."
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ninguna requiere montar nada en Atajos: instala y usa. El acceso a Fotos se pide la primera vez."
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "いずれもショートカットでの組み立ては不要、インストールするだけ。初回に写真へのアクセスを求められます。"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "모두 단축어에서 조립할 필요 없이 설치만 하면 됩니다. 처음 사용 시 사진 접근 권한을 요청합니다."
+          }
+        }
+      }
+    },
+    "例如 flomo": {
+      "extractionState": "stale",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "e.g. flomo"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "p. ej. flomo"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "例：flomo"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "예: flomo"
+          }
+        }
+      }
+    },
+    "例如 MyVault": {
+      "extractionState": "stale",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "e.g. MyVault"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "p. ej. MyVault"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "例：MyVault"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "예: MyVault"
+          }
+        }
+      }
+    },
+    "信息提取": {
+      "extractionState": "stale",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Extracted Info"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Información extraída"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "情報抽出"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "정보 추출"
+          }
+        }
+      }
+    },
+    "全选": {
+      "extractionState": "stale",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "All"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Todo"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "すべて選択"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "전체 선택"
+          }
+        }
+      }
+    },
+    "全部语言": {
+      "extractionState": "stale",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "All languages"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Todos los idiomas"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "すべての言語"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "모든 언어"
+          }
+        }
+      }
+    },
+    "关于拾文": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "About SnapText"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Acerca de SnapText"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "SnapTextについて"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "SnapText 정보"
+          }
+        }
+      }
+    },
+    "关闭": {
+      "extractionState": "stale",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Close"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Cerrar"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "閉じる"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "닫기"
+          }
+        }
+      }
+    },
+    "准备好开始了": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "You're All Set"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Todo listo"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "さあ、始めましょう"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "시작할 준비 완료"
+          }
+        }
+      }
+    },
+    "分享": {
+      "extractionState": "stale",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Share"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Compartir"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "共有"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "공유"
+          }
+        }
+      }
+    },
+    "分享截图": {
+      "extractionState": "stale",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Share a Screenshot"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Compartir una captura"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "スクリーンショットを共有"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "스크린샷 공유"
+          }
+        }
+      }
+    },
+    "分享面板": {
+      "extractionState": "stale",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Share Sheet"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Hoja de compartir"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "共有シート"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "공유 시트"
+          }
+        }
+      }
+    },
+    "分类：%@": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Category: %@"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Categoría: %@"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "分類：%@"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "분류: %@"
+          }
+        }
+      }
+    },
+    "删除该归档": {
+      "extractionState": "stale",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Delete this archive"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Eliminar este archivo"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "このアーカイブを削除"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "이 보관 항목 삭제"
+          }
+        }
+      }
+    },
+    "剪贴板中没有图片，请先复制或截屏一张图": {
+      "extractionState": "stale",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "No image in the clipboard. Copy or screenshot something first."
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "No hay imagen en el portapapeles. Copia o captura algo primero."
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "クリップボードに画像がありません。先にコピーするかスクリーンショットを撮ってください。"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "클립보드에 이미지가 없습니다. 먼저 복사하거나 스크린샷을 찍으세요."
+          }
+        }
+      }
+    },
+    "动作选择拾文 App 的「静默归档截图」": {
+      "extractionState": "stale",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Add the action: SnapText's \"Silently archive screenshot\""
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Añade la acción «Archivar en silencio» de SnapText"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "アクションにSnapTextの「サイレント保存」を選択"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "동작으로 SnapText의 '조용히 보관' 선택"
+          }
+        }
+      }
+    },
+    "占位符：{title} {content} {markdown} {tags} {tagsHash} {date}。适配 flomo、Craft 等一切支持 URL Scheme 的应用。": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Placeholders: {title} {content} {markdown} {tags} {tagsHash} {date}. Works with any URL-scheme app such as flomo or Craft."
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Marcadores: {title} {content} {markdown} {tags} {tagsHash} {date}. Compatible con cualquier app que use URL scheme, como flomo o Craft."
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "プレースホルダ：{title} {content} {markdown} {tags} {tagsHash} {date}。flomoやCraftなど、URLスキーム対応のあらゆるアプリで使えます。"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "자리 표시자: {title} {content} {markdown} {tags} {tagsHash} {date}. flomo, Craft 등 URL 스킴을 지원하는 모든 앱에서 사용 가능합니다."
+          }
+        }
+      }
+    },
+    "双指缩放 · 拖动平移 · 双击放大/还原": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Pinch to zoom · drag to pan · double-tap to toggle"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Pellizca para zoom · arrastra para mover · doble toque para ampliar"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ピンチでズーム・ドラッグで移動・ダブルタップで拡大/戻す"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "핀치로 확대 · 드래그로 이동 · 두 번 탭으로 확대/복원"
+          }
+        }
+      }
+    },
+    "发送测试笔记到 Obsidian": {
+      "extractionState": "stale",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Send a Test Note to Obsidian"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Enviar nota de prueba a Obsidian"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Obsidianへテストノートを送信"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Obsidian으로 테스트 노트 보내기"
+          }
+        }
+      }
+    },
+    "发送测试笔记到自定义应用": {
+      "extractionState": "stale",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Send a Test Note to the Custom App"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Enviar nota de prueba a la app personalizada"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "カスタムアプリへテストノートを送信"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "사용자 정의 앱으로 테스트 노트 보내기"
+          }
+        }
+      }
+    },
+    "在「设置」页按引导把快捷指令绑定到操作按钮，或开启「截屏时」自动化——截图后无需任何操作，自动识别归档。": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Follow the guide in Settings to bind a shortcut to the Action Button, or turn on the \"When Screenshot is Taken\" automation — screenshots then archive themselves with zero taps."
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sigue la guía en Ajustes para asignar un atajo al botón Acción o activa la automatización «Al hacer captura»: las capturas se reconocen y archivan solas."
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "「設定」ページのガイドに従ってショートカットをアクションボタンに割り当てるか、「スクリーンショット撮影時」のオートメーションを有効に。スクリーンショットが自動で認識・保存されます。"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "'설정' 페이지 안내에 따라 단축어를 동작 버튼에 연결하거나 '스크린샷 촬영 시' 자동화를 켜세요. 스크린샷이 자동으로 인식·보관됩니다."
+          }
+        }
+      }
+    },
+    "在后台识别截图并自动归档，返回标题与摘要，可接「显示通知」。": {
+      "extractionState": "stale",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Recognize and archive a screenshot in the background; returns title and summary for \"Show Notification\"."
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Reconoce y archiva en segundo plano; devuelve título y resumen para «Mostrar notificación»."
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "バックグラウンドで認識して自動保存し、タイトルと要約を返します。「通知を表示」と組み合わせ可能。"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "백그라운드에서 인식해 자동 보관하고 제목과 요약을 반환합니다. '알림 표시'와 연결할 수 있습니다."
+          }
+        }
+      }
+    },
+    "在扩展内直接完成识别、大爆炸选取与归档": {
+      "extractionState": "stale",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Recognize, select and archive right inside the extension"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Reconoce, selecciona y archiva dentro de la extensión"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "拡張機能内で認識・ビッグバン選択・保存まで完結"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "확장 프로그램 안에서 인식, 빅뱅 선택, 보관까지 완료"
+          }
+        }
+      }
+    },
+    "处理最近截图": {
+      "extractionState": "stale",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Process latest screenshot"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Procesar última captura"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "最新のスクリーンショットを処理"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "최근 스크린샷 처리"
+          }
+        }
+      }
+    },
+    "复制": {
+      "extractionState": "stale",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Copy"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Copiar"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "コピー"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "복사"
+          }
+        }
+      }
+    },
+    "大爆炸截图识别": {
+      "extractionState": "stale",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Big Bang screenshot"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Captura Big Bang"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ビッグバン認識"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "빅뱅 스크린샷 인식"
+          }
+        }
+      }
+    },
+    "大爆炸文字提取": {
+      "extractionState": "stale",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Big Bang Text Extraction"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Extracción Big Bang"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ビッグバン文字抽出"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "빅뱅 텍스트 추출"
+          }
+        }
+      }
+    },
+    "大爆炸识别最近截图": {
+      "extractionState": "stale",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Big Bang Latest Screenshot"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Big Bang última captura"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "最新のスクリーンショットをビッグバン"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "최근 스크린샷 빅뱅"
+          }
+        }
+      }
+    },
+    "大爆炸选取": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Big Bang select"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Selección Big Bang"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ビッグバン選択"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "빅뱅 선택"
+          }
+        }
+      }
+    },
+    "失败：%@": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Failed: %@"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Error: %@"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "失敗：%@"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "실패: %@"
+          }
+        }
+      }
+    },
+    "好": {
+      "extractionState": "stale",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "OK"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "OK"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "OK"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "확인"
+          }
+        }
+      }
+    },
+    "存储位置": {
+      "extractionState": "stale",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Storage"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Almacenamiento"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "保存場所"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "저장 위치"
+          }
+        }
+      }
+    },
+    "存入备忘录（分享面板）": {
+      "extractionState": "stale",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Save to Notes (share sheet)"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Guardar en Notas (hoja de compartir)"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "メモに保存（共有シート）"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "메모에 저장(공유 시트)"
+          }
+        }
+      }
+    },
+    "完全本地运行 · 不采集隐私": {
+      "extractionState": "stale",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Fully on-device · No data collected"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "100% en el dispositivo · Sin recolección de datos"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "完全ローカル動作・プライバシー非収集"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "완전 온디바이스 · 개인정보 수집 없음"
+          }
+        }
+      }
+    },
+    "完成": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Done"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Listo"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "完了"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "완료"
+          }
+        }
+      }
+    },
+    "导入": {
+      "extractionState": "stale",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Import"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Importar"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "読み込み"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "가져오기"
+          }
+        }
+      }
+    },
+    "导出": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Export"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Exportar"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "書き出し"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "내보내기"
+          }
+        }
+      }
+    },
+    "导出全部归档 · JSON（备份）": {
+      "extractionState": "stale",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Export all · JSON (backup)"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Exportar todo · JSON (copia de seguridad)"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "すべてのアーカイブを書き出し・JSON（バックアップ）"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "전체 보관함 내보내기 · JSON(백업)"
+          }
+        }
+      }
+    },
+    "导出全部归档 · Markdown": {
+      "extractionState": "stale",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Export all · Markdown"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Exportar todo · Markdown"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "すべてのアーカイブを書き出し・Markdown"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "전체 보관함 내보내기 · Markdown"
+          }
+        }
+      }
+    },
+    "导出内容为空": {
+      "extractionState": "stale",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Nothing to export"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "No hay nada que exportar"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "書き出す内容がありません"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "내보낼 내용이 없습니다"
+          }
+        }
+      }
+    },
+    "导出时间：%@ · 共 %lld 条": {
+      "extractionState": "stale",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Exported at: %@ · %lld entries"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Exportado: %@ · %lld entradas"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "書き出し日時：%@・全%lld件"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "내보낸 시각: %@ · 총 %lld건"
+          }
+        }
+      }
+    },
+    "导出测试": {
+      "extractionState": "stale",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Export Test"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Prueba de exportación"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "書き出しテスト"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "내보내기 테스트"
+          }
+        }
+      }
+    },
+    "左右滑动选择「快捷指令」": {
+      "extractionState": "stale",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Swipe to choose \"Shortcut\""
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Desliza y elige «Atajo»"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "左右にスワイプして「ショートカット」を選択"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "좌우로 밀어 '단축어' 선택"
+          }
+        }
+      }
+    },
+    "已发送到 %@": {
+      "extractionState": "stale",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sent to %@"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Enviado a %@"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@に送信しました"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@(으)로 보냈습니다"
+          }
+        }
+      }
+    },
+    "已发送到 %@，请到对应 App 中确认是否创建成功": {
+      "extractionState": "stale",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sent to %@ — check the app to confirm the note was created"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Enviado a %@: comprueba en la app si se creó la nota"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@に送信しました。アプリで作成されたか確認してください"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@(으)로 보냈습니다. 앱에서 생성 여부를 확인하세요"
+          }
+        }
+      }
+    },
+    "已复制 %@": {
+      "extractionState": "stale",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Copied %@"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ copiado"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@をコピーしました"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ 복사됨"
+          }
+        }
+      }
+    },
+    "已复制 %lld 字": {
+      "extractionState": "stale",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Copied %lld characters"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%lld caracteres copiados"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%lld文字をコピーしました"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%lld자 복사됨"
+          }
+        }
+      }
+    },
+    "已归档": {
+      "extractionState": "stale",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Archived"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Archivado"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "保存済み"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "보관됨"
+          }
+        }
+      }
+    },
+    "已归档：%@": {
+      "extractionState": "stale",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Archived: %@"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Archivado: %@"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "保存しました：%@"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "보관됨: %@"
+          }
+        }
+      }
+    },
+    "已清理 %lld 张": {
+      "extractionState": "stale",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Cleaned up %lld"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%lld eliminadas"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%lld枚を整理"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%lld장 정리됨"
+          }
+        }
+      }
+    },
+    "已移除": {
+      "extractionState": "stale",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Removed"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Eliminado"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "削除しました"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "제거됨"
+          }
+        }
+      }
+    },
+    "已选中 %@": {
+      "extractionState": "stale",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Selected %@"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ seleccionado"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@を選択しました"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ 선택됨"
+          }
+        }
+      }
+    },
+    "建议先在设置里按引导绑定操作按钮，体验一按即识别": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tip: follow the guide in Settings to bind a shortcut to the Action Button for one-press capture"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Consejo: sigue la guía en Ajustes para asignar un atajo al botón Acción"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "設定のガイドに従ってアクションボタンに割り当てると、ワンプッシュで使えます"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "설정 안내에 따라 동작 버튼에 연결하면 한 번 눌러 사용할 수 있습니다"
+          }
+        }
+      }
+    },
+    "开启后 App 退到后台即上锁，回前台需 FaceID / 触控 ID / 密码验证。数据始终只存在本机。": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "The app locks when backgrounded and requires Face ID / Touch ID / passcode on return. Data never leaves the device."
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "La app se bloquea al pasar a segundo plano y pide Face ID / Touch ID / código al volver. Los datos nunca salen del dispositivo."
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "有効にするとバックグラウンドでロックされ、戻る際にFace ID／Touch ID／パスコードが必要です。データは常にデバイス内のみに保存されます。"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "켜면 앱이 백그라운드로 가면 잠기고, 돌아올 때 Face ID / Touch ID / 암호 확인이 필요합니다. 데이터는 항상 기기에만 저장됩니다."
+          }
+        }
+      }
+    },
+    "开启后，静默归档（相册自动收集、控制中心控件）处理成功的截图会从相册移除，改由拾文保管。系统会弹窗确认；删除的图片进入「最近删除」保留 30 天。分享与手动导入的图片不受影响。": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "When on, screenshots archived through silent paths (photo auto-capture, Control Center) are removed from your photo library — SnapText keeps them instead. iOS shows its own confirmation; deleted photos stay in Recently Deleted for 30 days. Shared and manually imported images are never touched."
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Si está activado, las capturas archivadas por rutas silenciosas (recolección automática y Centro de Control) se eliminan de Fotos y las conserva SnapText. iOS muestra su propia confirmación; las fotos eliminadas permanecen 30 días en «Recientemente eliminadas». Las imágenes compartidas o importadas manualmente no se tocan."
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "オンにすると、サイレント経路（写真ライブラリの自動収集、コントロールセンター）で保存されたスクリーンショットは写真ライブラリから削除され、SnapTextが保管します。システムの確認ダイアログが表示され、削除された写真は「最近削除した項目」に30日間残ります。共有・手動読み込みの画像は対象外です。"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "켜면 조용한 경로(사진 보관함 자동 수집, 제어 센터)로 보관된 스크린샷이 사진 보관함에서 삭제되고 SnapText가 대신 보관합니다. 시스템 확인 창이 표시되며 삭제된 사진은 '최근 삭제된 항목'에 30일간 남습니다. 공유 및 직접 가져온 이미지는 영향을 받지 않습니다."
+          }
+        }
+      }
+    },
+    "开启后自动识别并归档新增图片：截图在前台实时处理；拍摄的照片由系统在后台择机处理（需保持后台 App 刷新开启）。从开启时刻开始收集，不回溯历史。": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "New images are recognized and archived automatically: screenshots in real time while the app is foreground; camera photos in the background when the system allows (keep Background App Refresh on). Collection starts from the moment you enable it — no history backfill."
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Las imágenes nuevas se reconocen y archivan solas: las capturas al momento en primer plano y las fotos de cámara en segundo plano cuando el sistema lo permite (mantén activada «Actualización en segundo plano»). La recolección empieza al activarla, sin retroceder en el historial."
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "有効にすると新しい画像を自動で認識・保存します：スクリーンショットはフォアグラウンドで即時処理、撮影した写真はシステムがバックグラウンドで処理します（「Appのバックグラウンド更新」をオンに）。収集は有効にした時点から始まり、過去には遡りません。"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "켜면 새 이미지를 자동으로 인식·보관합니다: 스크린샷은 포그라운드에서 실시간 처리되고, 촬영한 사진은 시스템이 백그라운드에서 처리합니다('백그라운드 앱 새로 고침' 필요). 수집은 켠 시점부터 시작되며 과거로 거슬러 올라가지 않습니다."
+          }
+        }
+      }
+    },
+    "开始使用": {
+      "extractionState": "stale",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Get Started"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Empezar"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "はじめる"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "시작하기"
+          }
+        }
+      }
+    },
+    "弹出大爆炸，瞬间选取文字": {
+      "extractionState": "stale",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "The Big Bang appears — pick words instantly"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Aparece el Big Bang y eliges palabras al instante"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ビッグバンが開き、すぐに文字を選べます"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "빅뱅이 열리고 즉시 텍스트를 고릅니다"
+          }
+        }
+      }
+    },
+    "归档": {
+      "extractionState": "stale",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Archive"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Archivo"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "アーカイブ"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "보관함"
+          }
+        }
+      }
+    },
+    "归档内容受隐私锁保护": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Archives are protected by the privacy lock"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Los archivos están protegidos con el bloqueo de privacidad"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "アーカイブはプライバシーロックで保護されています"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "보관함은 개인정보 잠금으로 보호됩니다"
+          }
+        }
+      }
+    },
+    "归档最近截图": {
+      "extractionState": "stale",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Archive latest screenshot"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Archivar última captura"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "最新のスクリーンショットを保存"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "최근 스크린샷 보관"
+          }
+        }
+      }
+    },
+    "归档后删除源截图": {
+      "extractionState": "stale",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Delete Source Screenshots After Archiving"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Eliminar capturas originales tras archivar"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "保存後に元のスクリーンショットを削除"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "보관 후 원본 스크린샷 삭제"
+          }
+        }
+      }
+    },
+    "快捷指令": {
+      "extractionState": "stale",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Shortcut"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Atajo"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ショートカット"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "단축어"
+          }
+        }
+      }
+    },
+    "快捷指令 App → 自动化 → 新建自动化": {
+      "extractionState": "stale",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Shortcuts app → Automation → New Automation"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "App Atajos → Automatización → Nueva automatización"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ショートカット App → オートメーション → 新規オートメーション"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "단축어 앱 → 자동화 → 새 자동화"
+          }
+        }
+      }
+    },
+    "想把「截屏动作 → 拾文」精确串起来（如配方 A），或实现截屏全自动时使用。": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Use these to chain \"Take Screenshot → SnapText\" precisely (Recipe A) or make screenshots fully automatic."
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Úsalos para encadenar «Tomar captura → SnapText» (receta A) o automatizar del todo."
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "「スクリーンショット→SnapText」を正確につなぎたい場合（レシピA）や完全自動化に。"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "'스크린샷 → SnapText'를 정확히 연결하거나(레시피 A) 완전 자동화할 때 사용하세요."
+          }
+        }
+      }
+    },
+    "截图": {
+      "extractionState": "stale",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Screenshot"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Captura"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "スクリーンショット"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "스크린샷"
+          }
+        }
+      }
+    },
+    "截图即知识": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Screenshots Become Knowledge"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tus capturas se vuelven conocimiento"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "スクリーンショットが知識になる"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "스크린샷이 곧 지식"
+          }
+        }
+      }
+    },
+    "截图后分享到拾文、绑定操作按钮一键捕获，\n或在设置里开启相册自动收集。\n识别、提取、归档全部在设备本地完成。": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Share screenshots to SnapText, bind the Action Button for one-press capture,\nor turn on photo-library auto-capture in Settings.\nRecognition, extraction and archiving all happen on device."
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Comparte capturas con SnapText, captura con un toque con el botón Acción,\no activa la recolección automática en Ajustes.\nEl reconocimiento, la extracción y el archivado ocurren en el dispositivo."
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "スクリーンショットをSnapTextに共有、アクションボタンでワンタップ取り込み、\nまたは設定で写真ライブラリの自動収集を有効に。\n認識・抽出・保存はすべてデバイス上で行われます。"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "스크린샷을 SnapText로 공유하거나, 동작 버튼으로 한 번에 캡처하세요.\n설정에서 사진 보관함 자동 수집을 켤 수도 있습니다.\n인식, 추출, 보관은 모두 기기에서 처리됩니다."
+          }
+        }
+      }
+    },
+    "截图后点缩略图 → 分享 → 拾文": {
+      "extractionState": "stale",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "After a screenshot, tap the thumbnail → Share → SnapText"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tras una captura, toca la miniatura → Compartir → SnapText"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "スクリーンショット後にサムネイル → 共有 → SnapText"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "스크린샷 후 썸네일 → 공유 → SnapText"
+          }
+        }
+      }
+    },
+    "截图清理": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Screenshot Cleanup"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Limpieza de capturas"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "スクリーンショット整理"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "스크린샷 정리"
+          }
+        }
+      }
+    },
+    "截图那一刻自动入库，零操作": {
+      "extractionState": "stale",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Every screenshot files itself — zero taps"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Cada captura se archiva sola, sin tocar nada"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "撮った瞬間に自動で保存、操作ゼロ"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "촬영 즉시 자동으로 보관, 터치 없음"
+          }
+        }
+      }
+    },
+    "截屏自动化": {
+      "extractionState": "stale",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Screenshot Automation"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Automatización de capturas"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "スクリーンショットのオートメーション"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "스크린샷 자동화"
+          }
+        }
+      }
+    },
+    "所有识别与提取均在设备本地完成，不上传任何数据。语言更多时识别略慢。": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "All recognition and extraction happen on device; nothing is uploaded. More languages make recognition slightly slower."
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Todo el reconocimiento y la extracción se realizan en el dispositivo; no se sube nada. Más idiomas hacen el reconocimiento algo más lento."
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "認識と抽出はすべてデバイス上で完結し、データは一切送信されません。言語を増やすと認識が少し遅くなります。"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "모든 인식과 추출은 기기에서 처리되며 데이터는 전송되지 않습니다. 언어가 많을수록 인식이 조금 느려집니다."
+          }
+        }
+      }
+    },
+    "打开「快捷指令」App，新建快捷指令，命名如「拾文·大爆炸」": {
+      "extractionState": "stale",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Open the Shortcuts app, create a new shortcut named \"SnapText Big Bang\""
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Abre la app Atajos, crea un atajo nuevo y nómbralo p. ej. «SnapText Big Bang»"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "「ショートカット」Appを開き、新規ショートカットを作成し「SnapText・ビッグバン」などと命名"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "'단축어' 앱을 열고 새 단축어를 만들어 'SnapText·빅뱅'처럼 이름 지정"
+          }
+        }
+      }
+    },
+    "扫描文档（自动纠偏增强）": {
+      "extractionState": "stale",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Scan document (auto-enhanced)"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Escanear documento (mejorado automáticamente)"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "書類をスキャン（自動補正・強調）"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "문서 스캔(자동 보정 및 개선)"
+          }
+        }
+      }
+    },
+    "批量识别 %@/%@ · 全程端侧": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "new",
+            "value": "批量识别 %1$@/%2$@ · 全程端侧"
+          }
+        }
+      }
+    },
+    "批量识别 %lld/%lld · 全程端侧": {
+      "extractionState": "stale",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Batch %lld/%lld · all on device"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Lote %lld/%lld · todo en el dispositivo"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "一括認識 %lld/%lld・すべてオンデバイス"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "일괄 인식 %lld/%lld · 전부 온디바이스"
+          }
+        }
+      }
+    },
+    "找到「拾文」：添加「大爆炸识别」或「归档最近截图」": {
+      "extractionState": "stale",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Find SnapText: add \"Big Bang\" or \"Archive latest screenshot\""
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Busca SnapText: añade «Big Bang» o «Archivar última captura»"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "「SnapText」を見つけて「ビッグバン認識」または「最新のスクリーンショットを保存」を追加"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "'SnapText'를 찾아 '빅뱅 인식' 또는 '최근 스크린샷 보관' 추가"
+          }
+        }
+      }
+    },
+    "找到「拾文」添加「归档最近截图」": {
+      "extractionState": "stale",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Find SnapText and add \"Archive latest screenshot\""
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Busca SnapText y añade «Archivar última captura»"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "「SnapText」を見つけて「最新のスクリーンショットを保存」を追加"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "'SnapText'를 찾아 '최근 스크린샷 보관' 추가"
+          }
+        }
+      }
+    },
+    "把截图拖到这里": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Drop screenshots here"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Arrastra capturas aquí"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ここにスクリーンショットをドロップ"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "여기에 스크린샷을 드롭하세요"
+          }
+        }
+      }
+    },
+    "拍摄": {
+      "extractionState": "stale",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Camera"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Cámara"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "撮影"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "촬영"
+          }
+        }
+      }
+    },
+    "拍照识别": {
+      "extractionState": "stale",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Snap & recognize"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Fotografiar y reconocer"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "撮影して認識"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "촬영하여 인식"
+          }
+        }
+      }
+    },
+    "拾": {},
+    "拾文": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "SnapText"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "SnapText"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "SnapText"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "SnapText"
+          }
+        }
+      }
+    },
+    "拾文 SnapText · 截图即知识。识别、提取、归档全程离线。": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "SnapText · screenshots become knowledge. Recognition, extraction and archiving are fully offline."
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "SnapText · las capturas se vuelven conocimiento. Reconocimiento, extracción y archivado totalmente sin conexión."
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "SnapText・スクリーンショットが知識になる。認識・抽出・保存はすべてオフライン。"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "SnapText · 스크린샷이 곧 지식. 인식, 추출, 보관 모두 오프라인."
+          }
+        }
+      }
+    },
+    "拾文·大爆炸识别": {
+      "extractionState": "stale",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "SnapText · Big Bang"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "SnapText · Big Bang"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "SnapText・ビッグバン認識"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "SnapText · 빅뱅 인식"
+          }
+        }
+      }
+    },
+    "拾文·归档最近截图": {
+      "extractionState": "stale",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "SnapText · Archive latest"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "SnapText · Archivar última"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "SnapText・最新を保存"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "SnapText · 최근 항목 보관"
+          }
+        }
+      }
+    },
+    "拾文导出测试": {
+      "extractionState": "stale",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "SnapText export test"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Prueba de exportación de SnapText"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "SnapText 書き出しテスト"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "SnapText 내보내기 테스트"
+          }
+        }
+      }
+    },
+    "拾文已锁定": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "SnapText is locked"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "SnapText está bloqueado"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "SnapTextはロックされています"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "SnapText가 잠겨 있습니다"
+          }
+        }
+      }
+    },
+    "拾文速记": {
+      "extractionState": "stale",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "SnapText note"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Nota SnapText"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "SnapTextメモ"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "SnapText 메모"
+          }
+        }
+      }
+    },
+    "指定相簿": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Specific album"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Álbum concreto"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "指定のアルバム"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "지정 앨범"
+          }
+        }
+      }
+    },
+    "捕获": {
+      "extractionState": "stale",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Capture"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Capturar"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "キャプチャ"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "캡처"
+          }
+        }
+      }
+    },
+    "控制中心": {
+      "extractionState": "stale",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Control Center"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Centro de Control"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "コントロールセンター"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "제어 센터"
+          }
+        }
+      }
+    },
+    "控制中心控件（iOS 18+，配方可 B）": {
+      "extractionState": "stale",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Control Center control (iOS 18+, with Recipe B)"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Control del Centro de Control (iOS 18+, con la receta B)"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "コントロールセンター（iOS 18以降、レシピBと併用）"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "제어 센터 제어(iOS 18+, 레시피 B와 함께)"
+          }
+        }
+      }
+    },
+    "控制中心控件直接归档相册中最近一张截图；首次使用请先打开拾文 App 完成相册授权。": {
+      "extractionState": "stale",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "The Control Center control archives the latest photo-library screenshot directly. Open SnapText once first to grant photo access."
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "El control del Centro de Control archiva directamente la última captura de Fotos. Ábrelo una vez antes para conceder acceso a Fotos."
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "コントロールセンターから写真ライブラリの最新スクリーンショットを直接保存できます。初回は先にSnapTextを開いて写真へのアクセスを許可してください。"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "제어 센터 제어로 사진 보관함의 최근 스크린샷을 바로 보관할 수 있습니다. 처음 사용 시 SnapText를 먼저 열어 사진 접근을 허용하세요."
+          }
+        }
+      }
+    },
+    "提取截图文本": {
+      "extractionState": "stale",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Extract screenshot text"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Extraer texto"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "テキストを抽出"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "텍스트 추출"
+          }
+        }
+      }
+    },
+    "搜索": {
+      "extractionState": "stale",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Search"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Buscar"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "検索"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "검색"
+          }
+        }
+      }
+    },
+    "搜索入口": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Search engine"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Motor de búsqueda"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "検索エンジン"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "검색 엔진"
+          }
+        }
+      }
+    },
+    "搜索地址无效": {
+      "extractionState": "stale",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Invalid search URL"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "URL de búsqueda no válida"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "検索URLが無効です"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "검색 주소가 올바르지 않습니다"
+          }
+        }
+      }
+    },
+    "搜索标题、正文、标签": {
+      "extractionState": "stale",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Search titles, text, tags"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Buscar títulos, texto, etiquetas"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "タイトル・本文・タグを検索"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "제목, 본문, 태그 검색"
+          }
+        }
+      }
+    },
+    "摘自「拾文 SnapText」 · %@": {
+      "extractionState": "stale",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Captured by 拾文 SnapText · %@"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Capturado con SnapText · %@"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "「SnapText」より・%@"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "SnapText에서 캡처 · %@"
+          }
+        }
+      }
+    },
+    "操作": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Actions"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Acciones"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "操作"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "작업"
+          }
+        }
+      }
+    },
+    "操作按钮（iPhone 15 Pro 及以上，iOS 18）": {
+      "extractionState": "stale",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Action Button (iPhone 15 Pro or later, iOS 18)"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Botón Acción (iPhone 15 Pro o posterior, iOS 18)"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "アクションボタン（iPhone 15 Pro以降、iOS 18）"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "동작 버튼(iPhone 15 Pro 이상, iOS 18)"
+          }
+        }
+      }
+    },
+    "操作按钮（iPhone 15 Pro 及以上）": {
+      "extractionState": "stale",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Action Button (iPhone 15 Pro or later)"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Botón Acción (iPhone 15 Pro o posterior)"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "アクションボタン（iPhone 15 Pro以降）"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "동작 버튼(iPhone 15 Pro 이상)"
+          }
+        }
+      }
+    },
+    "操作按钮一按": {
+      "extractionState": "stale",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "One Press of the Action Button"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Un toque en el botón Acción"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "アクションボタンをワンプッシュ"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "동작 버튼 한 번 누르기"
+          }
+        }
+      }
+    },
+    "数字": {
+      "extractionState": "stale",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Number"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Número"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "数字"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "숫자"
+          }
+        }
+      }
+    },
+    "整句": {
+      "extractionState": "stale",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sentence"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Frase"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "文単位"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "문장"
+          }
+        }
+      }
+    },
+    "新增 %lld 条，跳过 %lld 张": {
+      "extractionState": "stale",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%lld archived, %lld skipped"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%lld archivados, %lld omitidos"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%lld件を保存、%lld枚をスキップ"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%lld건 보관, %lld장 건너뜀"
+          }
+        }
+      }
+    },
+    "新建快捷指令，命名如「拾文·静默归档」": {
+      "extractionState": "stale",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Create a new shortcut named \"SnapText Silent Archive\""
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Crea un atajo nuevo y nómbralo p. ej. «SnapText Archivo silencioso»"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "新規ショートカットを作成し「SnapText・サイレント保存」などと命名"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "새 단축어를 만들어 'SnapText·조용히 보관'처럼 이름 지정"
+          }
+        }
+      }
+    },
+    "无法打开浏览器，已复制搜索词": {
+      "extractionState": "stale",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Couldn't open a browser; search text copied"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "No se pudo abrir el navegador; texto copiado"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ブラウザを開けません。検索語をコピーしました"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "브라우저를 열 수 없어 검색어를 복사했습니다"
+          }
+        }
+      }
+    },
+    "无法读取图像数据": {
+      "extractionState": "stale",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Couldn't read image data"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "No se pudieron leer los datos de la imagen"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "画像データを読み込めません"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "이미지 데이터를 읽을 수 없습니다"
+          }
+        }
+      }
+    },
+    "无法读取所选图片": {
+      "extractionState": "stale",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Couldn't read the selected image"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "No se pudo leer la imagen seleccionada"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "選択した画像を読み込めません"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "선택한 이미지를 읽을 수 없습니다"
+          }
+        }
+      }
+    },
+    "日期": {
+      "extractionState": "stale",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Date"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Fecha"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "日付"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "날짜"
+          }
+        }
+      }
+    },
+    "暂无标签，可手动添加或重新提取": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "No tags yet. Add manually or re-extract."
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sin etiquetas. Añádelas o vuelve a extraer."
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "タグはまだありません。手動で追加するか再抽出してください。"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "태그가 없습니다. 직접 추가하거나 다시 추출하세요."
+          }
+        }
+      }
+    },
+    "更快的方式": {
+      "extractionState": "stale",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Even faster ways"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Formas más rápidas"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "もっと速い方法"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "더 빠른 방법"
+          }
+        }
+      }
+    },
+    "未命名速记": {
+      "extractionState": "stale",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Untitled note"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Nota sin título"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "無題のメモ"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "제목 없는 메모"
+          }
+        }
+      }
+    },
+    "未检测到 %@，全文已复制": {
+      "extractionState": "stale",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ not found; full text copied"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "No se encontró %@; se copió todo el texto"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@が見つかりません。全文をコピーしました"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@을(를) 찾을 수 없어 전체 텍스트를 복사했습니다"
+          }
+        }
+      }
+    },
+    "未检测到 %@，请确认已安装后重试": {
+      "extractionState": "stale",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ not found — make sure it's installed and try again"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "No se encontró %@: comprueba que esté instalada e inténtalo de nuevo"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@が見つかりません。インストールを確認して再試行してください"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@을(를) 찾을 수 없습니다. 설치 후 다시 시도하세요"
+          }
+        }
+      }
+    },
+    "未能读取分享的图片": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Couldn't read the shared image"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "No se pudo leer la imagen compartida"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "共有された画像を読み込めませんでした"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "공유된 이미지를 읽지 못했습니다"
+          }
+        }
+      }
+    },
+    "未选取": {
+      "extractionState": "stale",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Nothing selected"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Nada seleccionado"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "未選択"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "선택 없음"
+          }
+        }
+      }
+    },
+    "本机 App Group 容器": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "On-device App Group container"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Contenedor App Group en el dispositivo"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "デバイス内App Groupコンテナ"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "기기 내 App Group 컨테이너"
+          }
+        }
+      }
+    },
+    "来源截图": {
+      "extractionState": "stale",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Source screenshot"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Captura original"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "元のスクリーンショット"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "원본 스크린샷"
+          }
+        }
+      }
+    },
+    "来自快捷指令「截屏」动作的输出": {
+      "extractionState": "stale",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Output of the \"Take Screenshot\" shortcut action"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Salida de la acción «Tomar captura» del atajo"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ショートカット「スクリーンショット」アクションの出力"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "단축어 '스크린샷' 동작의 출력"
+          }
+        }
+      }
+    },
+    "查看使用引导": {
+      "extractionState": "stale",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "View Onboarding"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ver guía de uso"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "使い方ガイドを見る"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "사용 안내 보기"
+          }
+        }
+      }
+    },
+    "查看原图": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "View Original"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ver original"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "元画像を表示"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "원본 보기"
+          }
+        }
+      }
+    },
+    "查看快捷指令配置": {
+      "extractionState": "stale",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Set Up Shortcuts"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Configurar atajos"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ショートカットを設定"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "단축어 설정"
+          }
+        }
+      }
+    },
+    "标签": {
+      "extractionState": "stale",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tags"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Etiquetas"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "タグ"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "태그"
+          }
+        }
+      }
+    },
+    "标题": {
+      "extractionState": "stale",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Title"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Título"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "タイトル"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "제목"
+          }
+        }
+      }
+    },
+    "模板无法生成有效链接，请检查 URL 格式": {
+      "extractionState": "stale",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "The template produced no valid link — check the URL format"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "La plantilla no generó un enlace válido: revisa el formato de la URL"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "テンプレートから有効なリンクを生成できません。URL形式を確認してください"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "템플릿에서 유효한 링크를 만들 수 없습니다. URL 형식을 확인하세요"
+          }
+        }
+      }
+    },
+    "正在接收截图…": {
+      "extractionState": "stale",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Receiving screenshots…"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Recibiendo capturas…"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "スクリーンショットを受信中…"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "스크린샷 받는 중…"
+          }
+        }
+      }
+    },
+    "正在搜索…": {
+      "extractionState": "stale",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Searching…"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Buscando…"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "検索中…"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "검색 중…"
+          }
+        }
+      }
+    },
+    "正在端侧识别文字…": {
+      "extractionState": "stale",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Recognizing text on device…"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Reconociendo texto en el dispositivo…"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "デバイス上で文字を認識中…"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "기기에서 텍스트 인식 중…"
+          }
+        }
+      }
+    },
+    "正在识别…": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Recognizing…"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Reconociendo…"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "認識中…"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "인식 중…"
+          }
+        }
+      }
+    },
+    "没有找到可处理的截图": {
+      "extractionState": "stale",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "No screenshot to process"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "No hay ninguna captura que procesar"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "処理できるスクリーンショットが見つかりません"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "처리할 스크린샷을 찾지 못했습니다"
+          }
+        }
+      }
+    },
+    "没有识别到文字，请确认截图包含文本内容": {
+      "extractionState": "stale",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "No text found. Make sure the screenshot contains text."
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "No se encontró texto. Comprueba que la captura contenga texto."
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "文字を認識できませんでした。スクリーンショットにテキストが含まれているか確認してください"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "텍스트를 찾지 못했습니다. 스크린샷에 텍스트가 있는지 확인하세요"
+          }
+        }
+      }
+    },
+    "测试": {
+      "extractionState": "stale",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "test"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "prueba"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "テスト"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "테스트"
+          }
+        }
+      }
+    },
+    "添加": {
+      "extractionState": "stale",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Add"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Añadir"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "追加"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "추가"
+          }
+        }
+      }
+    },
+    "添加动作 1：「截屏」": {
+      "extractionState": "stale",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Add action 1: \"Take Screenshot\""
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Añade la acción 1: «Tomar captura»"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "アクション1を追加：「スクリーンショット」"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "동작 1 추가: '스크린샷'"
+          }
+        }
+      }
+    },
+    "添加动作 1：搜索并选择「截屏」": {
+      "extractionState": "stale",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Add action 1: search and choose \"Take Screenshot\""
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Añade la acción 1: busca y elige «Tomar captura»"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "アクション1を追加：「スクリーンショット」を検索して選択"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "동작 1 추가: '스크린샷' 검색 후 선택"
+          }
+        }
+      }
+    },
+    "添加动作 2：拾文 App 的「静默归档截图」": {
+      "extractionState": "stale",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Add action 2: SnapText's \"Silently archive screenshot\""
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Añade la acción 2: «Archivar en silencio» de SnapText"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "アクション2を追加：SnapTextの「サイレント保存」"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "동작 2 추가: SnapText의 '조용히 보관'"
+          }
+        }
+      }
+    },
+    "添加动作 2：搜索 App「拾文」，选择「大爆炸截图识别」": {
+      "extractionState": "stale",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Add action 2: search the SnapText app and choose \"Big Bang screenshot\""
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Añade la acción 2: busca la app SnapText y elige «Captura Big Bang»"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "アクション2を追加：App「SnapText」を検索し「ビッグバン認識」を選択"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "동작 2 추가: 'SnapText' 앱을 검색해 '빅뱅 스크린샷 인식' 선택"
+          }
+        }
+      }
+    },
+    "添加标签": {
+      "extractionState": "stale",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Add tag"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Añadir etiqueta"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "タグを追加"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "태그 추가"
+          }
+        }
+      }
+    },
+    "清空": {
+      "extractionState": "stale",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Clear"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Limpiar"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "クリア"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "지우기"
+          }
+        }
+      }
+    },
+    "版本": {
+      "extractionState": "stale",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Version"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Versión"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "バージョン"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "버전"
+          }
+        }
+      }
+    },
+    "用\\(.applicationName)处理最近截图": {
+      "extractionState": "stale",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Process latest screenshot with \\(.applicationName)"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Procesar la última captura con \\(.applicationName)"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "\\(.applicationName)で最新のスクリーンショットを処理"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "\\(.applicationName)로 최근 스크린샷 처리"
+          }
+        }
+      }
+    },
+    "用\\(.applicationName)大爆炸": {
+      "extractionState": "stale",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Big Bang with \\(.applicationName)"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Big Bang con \\(.applicationName)"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "\\(.applicationName)でビッグバン"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "\\(.applicationName)로 빅뱅"
+          }
+        }
+      }
+    },
+    "用\\(.applicationName)提取文本": {
+      "extractionState": "stale",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Extract text with \\(.applicationName)"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Extraer texto con \\(.applicationName)"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "\\(.applicationName)でテキストを抽出"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "\\(.applicationName)로 텍스트 추출"
+          }
+        }
+      }
+    },
+    "用\\(.applicationName)识别截图": {
+      "extractionState": "stale",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Recognize screenshot with \\(.applicationName)"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Reconocer captura con \\(.applicationName)"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "\\(.applicationName)でスクリーンショットを認識"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "\\(.applicationName)로 스크린샷 인식"
+          }
+        }
+      }
+    },
+    "用\\(.applicationName)静默归档": {
+      "extractionState": "stale",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Silently archive with \\(.applicationName)"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Archivar en silencio con \\(.applicationName)"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "\\(.applicationName)でサイレント保存"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "\\(.applicationName)로 조용히 보관"
+          }
+        }
+      }
+    },
+    "电话": {
+      "extractionState": "stale",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Phone"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Teléfono"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "電話"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "전화"
+          }
+        }
+      }
+    },
+    "监控范围": {
+      "extractionState": "stale",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Watch scope"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ámbito de vigilancia"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "監視範囲"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "감시 범위"
+          }
+        }
+      }
+    },
+    "目标应用": {
+      "extractionState": "stale",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "the target app"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "la app destino"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "対象アプリ"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "대상 앱"
+          }
+        }
+      }
+    },
+    "相册自动收集": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Photo library auto-capture"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Recolección automática"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "写真ライブラリの自動収集"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "사진 보관함 자동 수집"
+          }
+        }
+      }
+    },
+    "相簿": {
+      "extractionState": "stale",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Album"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Álbum"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "アルバム"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "앨범"
+          }
+        }
+      }
+    },
+    "知识提取": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Knowledge extraction"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Extracción de conocimiento"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "知識抽出"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "지식 추출"
+          }
+        }
+      }
+    },
+    "移除": {
+      "extractionState": "stale",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Remove"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Quitar"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "削除"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "제거"
+          }
+        }
+      }
+    },
+    "移除该归档": {
+      "extractionState": "stale",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Remove this archive"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Quitar este archivo"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "このアーカイブを削除"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "이 보관 항목 제거"
+          }
+        }
+      }
+    },
+    "端侧 AI": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "On-device AI"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "IA en el dispositivo"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "オンデバイスAI"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "온디바이스 AI"
+          }
+        }
+      }
+    },
+    "端侧大模型已启用": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "On-device model enabled"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Modelo en el dispositivo activado"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "オンデバイスモデル有効"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "온디바이스 모델 사용 중"
+          }
+        }
+      }
+    },
+    "端侧识别": {
+      "extractionState": "stale",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "On-device recognition"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Reconocimiento en el dispositivo"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "オンデバイス認識"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "온디바이스 인식"
+          }
+        }
+      }
+    },
+    "第一步 · 开箱即用": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Step 1 · Ready to Use"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Paso 1 · Listo para usar"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ステップ1・すぐ使える"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "1단계 · 바로 사용"
+          }
+        }
+      }
+    },
+    "第一步 · 搭建快捷指令": {
+      "extractionState": "stale",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Step 1 · Create the shortcuts"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Paso 1 · Crear los atajos"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ステップ1・ショートカットを作成"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "1단계 · 단축어 만들기"
+          }
+        }
+      }
+    },
+    "第三步 · 轻点背面（需先建快捷指令）": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Step 3 · Back Tap (needs a shortcut first)"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Paso 3 · Tocar atrás (requiere un atajo)"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ステップ3・背面タップ（ショートカットが必要）"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "3단계 · 뒤쪽 탭(단축어 필요)"
+          }
+        }
+      }
+    },
+    "第二步 · 快捷指令（可选进阶）": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Step 2 · Shortcuts (optional)"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Paso 2 · Atajos (opcional)"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ステップ2・ショートカット（任意）"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "2단계 · 단축어(선택)"
+          }
+        }
+      }
+    },
+    "第二步 · 绑定触发方式": {
+      "extractionState": "stale",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Step 2 · Bind a trigger"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Paso 2 · Asignar un activador"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ステップ2・トリガーを割り当て"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "2단계 · 트리거 연결"
+          }
+        }
+      }
+    },
+    "等待处理": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Pending"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Pendiente"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "待機中"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "대기 중"
+          }
+        }
+      }
+    },
+    "系统全部截图": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "All system screenshots"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Todas las capturas del sistema"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "システムのすべてのスクリーンショット"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "시스템 전체 스크린샷"
+          }
+        }
+      }
+    },
+    "自动收集": {
+      "extractionState": "stale",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Auto capture"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Auto"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "自動収集"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "자동 수집"
+          }
+        }
+      }
+    },
+    "自定义导出 URL 模板": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Custom export URL template"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Plantilla de URL personalizada"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "カスタム書き出しURLテンプレート"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "사용자 정의 내보내기 URL 템플릿"
+          }
+        }
+      }
+    },
+    "自定义模板": {
+      "extractionState": "stale",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Custom template"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Plantilla personalizada"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "カスタムテンプレート"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "사용자 정의 템플릿"
+          }
+        }
+      }
+    },
+    "自定义模板名称": {
+      "extractionState": "stale",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Custom template name"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Nombre de la plantilla personalizada"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "カスタムテンプレート名"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "사용자 정의 템플릿 이름"
+          }
+        }
+      }
+    },
+    "规则模式（iOS 26 自动升级大模型）": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Rules mode (auto-upgrades on iOS 26)"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Modo básico (se mejora en iOS 26)"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ルールモード（iOS 26で自動アップグレード）"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "규칙 모드(iOS 26에서 자동 업그레이드)"
+          }
+        }
+      }
+    },
+    "规则模式（开启 Apple Intelligence 后升级）": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Rules mode (upgrades when Apple Intelligence is on)"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Modo básico (mejora al activar Apple Intelligence)"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ルールモード（Apple Intelligenceを有効にするとアップグレード）"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "규칙 모드(Apple Intelligence를 켜면 업그레이드)"
+          }
+        }
+      }
+    },
+    "解锁": {
+      "extractionState": "stale",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Unlock"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Desbloquear"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ロック解除"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "잠금 해제"
+          }
+        }
+      }
+    },
+    "设置": {
+      "extractionState": "stale",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Settings"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ajustes"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "設定"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "설정"
+          }
+        }
+      }
+    },
+    "设置 → 操作按钮": {
+      "extractionState": "stale",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Settings → Action Button"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ajustes → Botón Acción"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "設定 → アクションボタン"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "설정 → 동작 버튼"
+          }
+        }
+      }
+    },
+    "设置 → 操作按钮 → 左右滑动到「控制」": {
+      "extractionState": "stale",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Settings → Action Button → swipe to \"Controls\""
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ajustes → Botón Acción → desliza hasta «Controles»"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "設定 → アクションボタン → 左右にスワイプして「コントロール」"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "설정 → 동작 버튼 → 좌우로 밀어 '제어 항목'"
+          }
+        }
+      }
+    },
+    "设置 → 辅助功能 → 触控 → 轻点背面": {
+      "extractionState": "stale",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Settings → Accessibility → Touch → Back Tap"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ajustes → Accesibilidad → Tocar → Tocar atrás"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "設定 → アクセシビリティ → タッチ → 背面タップ"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "설정 → 손쉬운 사용 → 터치 → 뒤쪽 탭"
+          }
+        }
+      }
+    },
+    "识别、提取、归档，全部在设备本地完成，不上传任何数据。": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Recognition, extraction and archiving happen entirely on device. Nothing is ever uploaded."
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "El reconocimiento, la extracción y el archivado ocurren en el dispositivo. Nunca se sube nada."
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "認識・抽出・保存はすべてデバイス上で完結し、データは一切送信されません。"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "인식, 추출, 보관은 모두 기기에서 처리되며 어떤 데이터도 업로드되지 않습니다."
+          }
+        }
+      }
+    },
+    "识别最近截图并打开大爆炸文字选取": {
+      "extractionState": "stale",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Recognize the latest screenshot and open Big Bang selection"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Reconoce la última captura y abre la selección Big Bang"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "最新スクリーンショットを認識しビッグバン選択を開く"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "최근 스크린샷을 인식해 빅뱅 선택 열기"
+          }
+        }
+      }
+    },
+    "识别在设备本地完成，不会上传": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Recognition happens on device — nothing is uploaded"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "El reconocimiento ocurre en el dispositivo: nada se sube"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "認識はデバイス上で行われ、送信されません"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "인식은 기기에서 처리되며 업로드되지 않습니다"
+          }
+        }
+      }
+    },
+    "识别失败": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Recognition failed"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Error de reconocimiento"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "認識に失敗しました"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "인식 실패"
+          }
+        }
+      }
+    },
+    "识别并归档相册中最近一张截图": {
+      "extractionState": "stale",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Recognize and archive the latest screenshot"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Reconoce y archiva la última captura de Fotos"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "写真ライブラリの最新スクリーンショットを認識して保存"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "사진 보관함의 최근 스크린샷을 인식해 보관"
+          }
+        }
+      }
+    },
+    "识别截图文字并弹出大爆炸选取界面，瞬间完成归档。": {
+      "extractionState": "stale",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Recognize a screenshot and open the Big Bang selection overlay to archive instantly."
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Reconoce el texto de una captura y abre la selección Big Bang para archivarla al instante."
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "スクリーンショットの文字を認識し、ビッグバン選択画面を表示して即保存します。"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "스크린샷 텍스트를 인식해 빅뱅 선택 화면을 띄우고 즉시 보관합니다."
+          }
+        }
+      }
+    },
+    "识别文本": {
+      "extractionState": "stale",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Recognized text"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Texto reconocido"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "認識テキスト"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "인식된 텍스트"
+          }
+        }
+      }
+    },
+    "识别相册最近一张截图并自动归档。": {
+      "extractionState": "stale",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Recognize and archive the latest photo-library screenshot."
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Reconoce y archiva la última captura de Fotos."
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "写真ライブラリの最新スクリーンショットを認識して自動保存します。"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "사진 보관함의 최근 스크린샷을 인식해 자동 보관합니다."
+          }
+        }
+      }
+    },
+    "识别语言": {
+      "extractionState": "stale",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Recognition languages"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Idiomas de reconocimiento"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "認識言語"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "인식 언어"
+          }
+        }
+      }
+    },
+    "该归档已删除": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "This archive was deleted"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Este archivo se eliminó"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "このアーカイブは削除されました"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "이 보관 항목은 삭제되었습니다"
+          }
+        }
+      }
+    },
+    "请先在设置中配置导出模板": {
+      "extractionState": "stale",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Configure the export template in Settings first"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Configura primero la plantilla de exportación en Ajustes"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "先に設定で書き出しテンプレートを設定してください"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "먼저 설정에서 내보내기 템플릿을 구성하세요"
+          }
+        }
+      }
+    },
+    "请先选取要搜索的词块": {
+      "extractionState": "stale",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Select tokens to search first"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Selecciona primero el texto que quieres buscar"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "検索するテキストを先に選択してください"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "검색할 텍스트를 먼저 선택하세요"
+          }
+        }
+      }
+    },
+    "请选择": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Select…"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Seleccionar…"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "選択してください"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "선택하세요"
+          }
+        }
+      }
+    },
+    "读取剪贴板中的图片": {
+      "extractionState": "stale",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Read image from clipboard"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Leer imagen del portapapeles"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "クリップボードの画像を読み込む"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "클립보드의 이미지 읽기"
+          }
+        }
+      }
+    },
+    "读取相册中最新的一张截图进行识别，并弹出大爆炸选取界面。": {
+      "extractionState": "stale",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Reads the latest screenshot from your photo library and opens the Big Bang overlay."
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Lee la última captura de Fotos, la reconoce y abre la selección Big Bang."
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "写真ライブラリの最新スクリーンショットを読み取って認識し、ビッグバン選択画面を表示します。"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "사진 보관함의 최근 스크린샷을 읽어 인식하고 빅뱅 선택 화면을 띄웁니다."
+          }
+        }
+      }
+    },
+    "跳过": {
+      "extractionState": "stale",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Skip"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Omitir"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "スキップ"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "건너뛰기"
+          }
+        }
+      }
+    },
+    "轻点复制 · 长按更多": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tap to copy · hold for more"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Toca para copiar · mantén para más"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "タップでコピー・長押しで詳細"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "탭하여 복사 · 길게 눌러 더 보기"
+          }
+        }
+      }
+    },
+    "轻点背面（所有全面屏机型）": {
+      "extractionState": "stale",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Back Tap (all Face ID models)"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tocar atrás (todos los modelos con Face ID)"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "背面タップ（全画面モデル全般）"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "뒤쪽 탭(모든 전면 디스플레이 모델)"
+          }
+        }
+      }
+    },
+    "轻点词块选取 · 横向拖动连选 · 自动按中英文拼合": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tap tokens to select · drag to sweep · smart CJK/Latin joining"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Toca para seleccionar · arrastra para elegir en cadena · unión automática según el idioma"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "タップで選択・横になぞって連続選択・日中英の混在も自動整形"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "탭하여 선택 · 가로로 드래그해 연속 선택 · 언어별 자동 결합"
+          }
+        }
+      }
+    },
+    "运行测试一次，首次会询问「允许截屏」，选择允许": {
+      "extractionState": "stale",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Run it once; allow screen capture when asked"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ejecútalo una vez; permite la grabación de pantalla cuando se solicite"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "一度実行してテスト。初回は「画面収録を許可」と聞かれるので許可を選択"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "한 번 실행해 테스트하세요. 처음에는 '화면 기록 허용'을 묻는 창이 뜨면 허용하세요"
+          }
+        }
+      }
+    },
+    "还没有归档": {
+      "extractionState": "stale",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "No archives yet"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Aún no hay archivos"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "アーカイブはまだありません"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "보관된 항목이 없습니다"
+          }
+        }
+      }
+    },
+    "这是一条来自拾文的测试笔记。能看到它，说明导出配置正确。": {
+      "extractionState": "stale",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "This is a test note from SnapText. If you can see it, your export configuration works."
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Esta es una nota de prueba de SnapText. Si la ves, la configuración de exportación funciona."
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "これはSnapTextからのテストノートです。表示されていれば書き出し設定は正常です。"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "SnapText에서 보낸 테스트 노트입니다. 보인다면 내보내기 설정이 정상입니다."
+          }
+        }
+      }
+    },
+    "选中「拾文·大爆炸」或「拾文·静默归档」": {
+      "extractionState": "stale",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Pick \"SnapText Big Bang\" or \"SnapText Silent Archive\""
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Elige «SnapText Big Bang» o «SnapText Archivo silencioso»"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "「SnapText・ビッグバン」または「SnapText・サイレント保存」を選択"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "'SnapText·빅뱅' 또는 'SnapText·조용히 보관' 선택"
+          }
+        }
+      }
+    },
+    "选中的文字可直接复制、搜索、导出到备忘录或 Obsidian": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Selected text can be copied, searched, or exported to Notes or Obsidian"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "El texto seleccionado se puede copiar, buscar o exportar a Notas u Obsidian"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "選んだテキストはコピー・検索・メモやObsidianへの書き出しができます"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "선택한 텍스트는 바로 복사, 검색, 메모 또는 Obsidian으로 내보낼 수 있습니다"
+          }
+        }
+      }
+    },
+    "选中词块": {
+      "extractionState": "stale",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Select Tokens"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Seleccionar bloques"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "単語ブロックを選択"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "토큰 선택"
+          }
+        }
+      }
+    },
+    "选择「截屏时」（App 内截屏即触发）": {
+      "extractionState": "stale",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Choose \"When Screenshot is Taken\" (fires on any screenshot)"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Elige «Al hacer captura» (se activa con cualquier captura)"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "「スクリーンショット撮影時」を選択（どのアプリでも撮影で発動）"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "'스크린샷 촬영 시' 선택(어느 앱에서든 촬영 시 실행)"
+          }
+        }
+      }
+    },
+    "选择「拾文·大爆炸识别」——无需快捷指令，即装即用": {
+      "extractionState": "stale",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Pick \"SnapText · Big Bang\" — no shortcut needed, works right away"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Elige «SnapText · Big Bang»: sin atajos, listo al instante"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "「SnapText・ビッグバン認識」を選択——ショートカット不要ですぐ使えます"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "'SnapText · 빅뱅 인식' 선택 — 단축어 없이 바로 사용"
+          }
+        }
+      }
+    },
+    "选择「立即运行」并关闭「运行前询问」": {
+      "extractionState": "stale",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Choose \"Run Immediately\" and turn off \"Ask Before Running\""
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Elige «Ejecutar inmediatamente» y desactiva «Preguntar antes de ejecutar»"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "「すぐに実行」を選び「実行前に確認」をオフ"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "'즉시 실행'을 선택하고 '실행 전 확인' 끄기"
+          }
+        }
+      }
+    },
+    "邮箱": {
+      "extractionState": "stale",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Email"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Correo"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "メール"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "이메일"
+          }
+        }
+      }
+    },
+    "配方 A · 一按弹出大爆炸（推荐）": {
+      "extractionState": "stale",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Recipe A · One-press Big Bang (recommended)"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Receta A · Big Bang con un toque (recomendada)"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "レシピA・ワンプッシュでビッグバン（推奨）"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "레시피 A · 한 번 눌러 빅뱅(권장)"
+          }
+        }
+      }
+    },
+    "配方 B · 静默归档（不打断当前操作）": {
+      "extractionState": "stale",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Recipe B · Silent archive (no interruption)"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Receta B · Archivo silencioso (sin interrupciones)"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "レシピB・サイレント保存（作業を妨げない）"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "레시피 B · 조용히 보관(방해 없음)"
+          }
+        }
+      }
+    },
+    "配方 C · 截屏全自动（零操作，最快）": {
+      "extractionState": "stale",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Recipe C · Fully automatic (zero taps, fastest)"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Receta C · Totalmente automático (sin toques, lo más rápido)"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "レシピC・完全自動（操作ゼロ、最速）"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "레시피 C · 완전 자동(터치 없음, 가장 빠름)"
+          }
+        }
+      }
+    },
+    "配方 C 无需任何手动操作：截图即归档；操作按钮适合「想立即选取文字」的时刻。": {
+      "extractionState": "stale",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Recipe C needs no manual action: screenshots archive themselves. The Action Button is for when you want to pick text right away."
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "La receta C no requiere ninguna acción manual: la captura se archiva sola. El botón Acción sirve para cuando quieres seleccionar texto al momento."
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "レシピCは手動操作ゼロ：撮るだけで保存。アクションボタンは「今すぐ文字を選びたい」ときに。"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "레시피 C는 수동 조작이 전혀 필요 없습니다: 촬영하면 바로 보관. 동작 버튼은 '지금 바로 텍스트를 고르고 싶을 때' 적합합니다."
+          }
+        }
+      }
+    },
+    "配置不完整，请检查 Vault 名称": {
+      "extractionState": "stale",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Incomplete configuration — check the vault name"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Configuración incompleta: revisa el nombre del vault"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "設定が不完全です。Vault名を確認してください"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "설정이 불완전합니다. Vault 이름을 확인하세요"
+          }
+        }
+      }
+    },
+    "重复 · 复用既有归档": {
+      "extractionState": "stale",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Duplicate · reusing existing archive"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Duplicado · se reutiliza el archivo existente"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "重複・既存のアーカイブを再利用"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "중복 · 기존 보관 항목 재사용"
+          }
+        }
+      }
+    },
+    "重试": {
+      "extractionState": "stale",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Retry"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Reintentar"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "再試行"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "다시 시도"
+          }
+        }
+      }
+    },
+    "链接": {
+      "extractionState": "stale",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Link"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Enlace"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "リンク"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "링크"
+          }
+        }
+      }
+    },
+    "长按控制中心进入编辑 → 添加控件": {
+      "extractionState": "stale",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Long-press Control Center to edit → Add a control"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Mantén pulsado el Centro de Control → Añadir un control"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "コントロールセンターを長押しして編集 → コントロールを追加"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "제어 센터를 길게 눌러 편집 → 제어 항목 추가"
+          }
+        }
+      }
+    },
+    "隐私": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Privacy"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Privacidad"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "プライバシー"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "개인정보 보호"
+          }
+        }
+      }
+    },
+    "需要相册权限，请先打开拾文 App 完成授权": {
+      "extractionState": "stale",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Photo access required. Open SnapText to grant permission."
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Se requiere acceso a Fotos. Abre SnapText para concederlo."
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "写真へのアクセスが必要です。先にSnapTextを開いて許可してください"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "사진 접근 권한이 필요합니다. 먼저 SnapText를 열어 허용하세요"
+          }
+        }
+      }
+    },
+    "静默归档截图": {
+      "extractionState": "stale",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Silently archive screenshot"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Archivar en silencio"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "サイレント保存"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "조용히 보관"
+          }
+        }
+      }
+    },
+    "验证未通过，请重试": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Verification failed. Try again."
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Verificación fallida. Inténtalo de nuevo."
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "認証に失敗しました。もう一度お試しください"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "인증에 실패했습니다. 다시 시도하세요"
+          }
+        }
+      }
+    },
+    "默认": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Default"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Predeterminada"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "デフォルト"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "기본"
+          }
+        }
+      },
+      "extractionState": "manual"
+    },
+    "一键添加到快捷指令": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Add to Shortcuts"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Añadir a Atajos"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ショートカットに追加"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "단축어에 추가"
+          }
+        }
+      },
+      "extractionState": "manual"
+    },
+    "手动搭建配方（可选）": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Build a recipe manually (optional)"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Crear una receta a mano (opcional)"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "レシピを手動で作成（任意）"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "레시피 직접 만들기(선택)"
+          }
+        }
+      },
+      "extractionState": "manual"
+    },
+    "配方 A · 大爆炸": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Recipe A · Big Bang"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Receta A · Big Bang"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "レシピA・ビッグバン"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "레시피 A · 빅뱅"
+          }
+        }
+      },
+      "extractionState": "manual"
+    },
+    "配方 B · 静默归档": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Recipe B · Silent archive"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Receta B · Archivo silencioso"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "レシピB・サイレント保存"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "레시피 B · 조용히 보관"
+          }
+        }
+      },
+      "extractionState": "manual"
+    },
+    "配方 C · 截屏自动归档（系统自动化，需创建一次）": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Recipe C · Auto-archive on screenshot (system automation, create once)"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Receta C · Archivo automático al capturar (automatización del sistema, crear una vez)"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "レシピC・スクリーンショットで自動保存（システムオートメーション、初回のみ作成）"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "레시피 C · 스크린샷 자동 보관(시스템 자동화, 한 번만 생성)"
+          }
+        }
+      },
+      "extractionState": "manual"
+    },
+    "第三步 · 轻点背面（需先导入快捷指令）": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Step 3 · Back Tap (import the shortcut first)"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Paso 3 · Tocar atrás (importa antes el atajo)"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ステップ3・背面タップ（先にショートカットを追加）"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "3단계 · 뒤쪽 탭(먼저 단축어를 추가하세요)"
+          }
+        }
+      },
+      "extractionState": "manual"
+    },
+    "未能打开配方文件": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Couldn't open the recipe file"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "No se pudo abrir el archivo de la receta"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "レシピファイルを開けませんでした"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "레시피 파일을 열 수 없습니다"
+          }
+        }
+      },
+      "extractionState": "manual"
+    },
+    "安装包内未找到配方文件，请改用「手动搭建配方」按步骤创建。": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "The recipe file is missing from the app; use \"Build a recipe manually\" below to create it step by step."
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Falta el archivo de la receta en la app; usa «Crear una receta a mano» para crearla paso a paso."
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "アプリ内にレシピファイルが見つかりません。下の「レシピを手動で作成」の手順で作成してください。"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "앱에서 레시피 파일을 찾지 못했습니다. 아래 '레시피 직접 만들기' 단계로 만들어 주세요."
+          }
+        }
+      },
+      "extractionState": "manual"
+    },
+    "配方已内置在 App 中：点「一键添加」并在快捷指令 App 里确认即可，导入后可自由修改任意动作。配方 C 属于系统自动化，iOS 不允许导入，需按步骤创建一次。": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Recipes are built into the app: tap \"Add to Shortcuts\" and confirm in the Shortcuts app — you can edit any action afterwards. Recipe C is a system automation, so iOS doesn't allow importing it; create it once following the steps."
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Las recetas vienen incluidas en la app: toca «Añadir a Atajos» y confirma en Atajos; después puedes editar cualquier acción. La receta C es una automatización del sistema: iOS no permite importarla, créala una vez siguiendo los pasos."
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "レシピはアプリに内蔵されています。「ショートカットに追加」をタップしてショートカットAppで確認するだけで、その後はアクションを自由に編集できます。レシピCはシステムオートメーションのためiOSでは読み込めません。手順に沿って一度作成してください。"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "레시피는 앱에 내장되어 있습니다. '단축어에 추가'를 눌러 단축어 앱에서 확인하면 되고, 이후 어떤 동작이든 자유롭게 수정할 수 있습니다. 레시피 C는 시스템 자동화라 iOS에서 가져올 수 없으므로 단계에 따라 한 번 만들어 주세요."
+          }
+        }
+      },
+      "extractionState": "manual"
+    },
+    "截屏 → 立即弹出大爆炸选取，适合想马上查看并整理文字的时刻。": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Screenshot → the Big Bang picker opens immediately; for when you want to review and sort the text right away."
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Captura → la selección Big Bang se abre al instante; para cuando quieres revisar y ordenar el texto enseguida."
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "スクリーンショット → すぐにビッグバンの選択画面が開きます。文字をすぐ確認・整理したいときに。"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "스크린샷 → 곧바로 빅뱅 선택 화면이 열립니다. 텍스트를 바로 확인하고 정리하고 싶을 때."
+          }
+        }
+      },
+      "extractionState": "manual"
+    },
+    "截屏 → 后台完成识别归档并发送通知，不打断当前操作。": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Screenshot → recognition, archiving and a notification happen in the background without interrupting you."
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Captura → el reconocimiento, el archivo y la notificación ocurren en segundo plano sin interrumpirte."
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "スクリーンショット → 認識・保存・通知はバックグラウンドで完了し、作業を妨げません。"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "스크린샷 → 인식·보관·알림이 백그라운드에서 처리되어 작업을 방해하지 않습니다."
+          }
+        }
+      },
+      "extractionState": "manual"
+    },
+    "添加动作 2：搜索 App「拾文」，选择「大爆炸截图识别」，把「截图」参数设为上一步的输出": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Add action 2: search the \"SnapText\" app, choose \"Big Bang screenshot\", and set its \"Screenshot\" parameter to the previous action's output"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Añade la acción 2: busca la app «SnapText», elige «Captura Big Bang» y asigna su parámetro «Captura» a la salida de la acción anterior"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "アクション2を追加：「SnapText」アプリを検索し「ビッグバン認識」を選択、「スクリーンショット」パラメータを前のアクションの出力に設定"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "동작 2 추가: 'SnapText' 앱을 검색해 '빅뱅 스크린샷 인식'을 선택하고, '스크린샷' 매개변수를 이전 동작의 출력으로 설정"
+          }
+        }
+      },
+      "extractionState": "manual"
+    },
+    "添加动作 2：拾文 App 的「静默归档截图」，把「截图」参数设为上一步的输出": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Add action 2: SnapText's \"Silently archive screenshot\", and set its \"Screenshot\" parameter to the previous action's output"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Añade la acción 2: «Archivar en silencio» de SnapText y asigna su parámetro «Captura» a la salida de la acción anterior"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "アクション2を追加：SnapTextの「サイレント保存」を選び、「スクリーンショット」パラメータを前のアクションの出力に設定"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "동작 2 추가: SnapText의 '조용히 보관'을 선택하고, '스크린샷' 매개변수를 이전 동작의 출력으로 설정"
+          }
+        }
+      },
+      "extractionState": "manual"
+    },
+    "轻点选取 · 长按拖动连选 · 自动分段拼合": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tap to pick · long-press then drag to sweep · paragraph breaks preserved"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Toca para elegir · mantén pulsado y arrastra para seleccionar · se conservan los párrafos"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "タップで選択・長押ししてドラッグで連続選択・段落を保ったまま結合"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "탭으로 선택 · 길게 누른 뒤 드래그해 연속 선택 · 문단 구분 유지"
+          }
+        }
+      },
+      "extractionState": "manual"
+    }
+  },
+  "version": "1.0"
+}

@@ -1,0 +1,1192 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 77;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		0149BD9878DD5F385AD03537 /* NaturalLanguageExtractor.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9CB92E8EA11E0C8CDCCEA65 /* NaturalLanguageExtractor.swift */; };
+		0276299C7930F779CF22CE13 /* ArchiveEntry.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2055C618BA59519ECFDDC9DD /* ArchiveEntry.swift */; };
+		06AA12208B304EBAECC00BCA /* PrivacyInfo.xcprivacy in Resources */ = {isa = PBXBuildFile; fileRef = 5F973C0BA727BE1D1D8ED15C /* PrivacyInfo.xcprivacy */; };
+		0A1737DB60F4BAB2721080C1 /* ScreenshotCleanupPolicy.swift in Sources */ = {isa = PBXBuildFile; fileRef = F59C09C22FB597B75A82EE27 /* ScreenshotCleanupPolicy.swift */; };
+		0BCF08D9F233919E6F4FB88F /* TextRecognizer.swift in Sources */ = {isa = PBXBuildFile; fileRef = B8CB102C13AD26AEE9866874 /* TextRecognizer.swift */; };
+		0CF0E014E0E6057747100FCF /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C4D2FC7204D886E4E6D78294 /* Assets.xcassets */; };
+		0D025B105E72232CAFD18FC5 /* BatchCaptureFlowView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0734B2D6B0F4B10C213812AF /* BatchCaptureFlowView.swift */; };
+		0EDEE50C9A619DA3E8016BF4 /* ExportAllBuilder.swift in Sources */ = {isa = PBXBuildFile; fileRef = 70E7FCDB77CDC1F56A0932B0 /* ExportAllBuilder.swift */; };
+		0FB56401E94161BE28EB46ED /* BatchCaptureFlowView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0734B2D6B0F4B10C213812AF /* BatchCaptureFlowView.swift */; };
+		12AE5AF28BF1B091BDB36A94 /* EntityExtractor.swift in Sources */ = {isa = PBXBuildFile; fileRef = B8D4B6B08D74CCDC144C366F /* EntityExtractor.swift */; };
+		137D6F5290F73217816427AF /* SnapTextWidgets.appex in Embed Foundation Extensions */ = {isa = PBXBuildFile; fileRef = 0FD68E22DD505E0D07425218 /* SnapTextWidgets.appex */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
+		148A4B49159E31B938D3574A /* ArchiveEntry.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2055C618BA59519ECFDDC9DD /* ArchiveEntry.swift */; };
+		14E1BE1C239F36A2641FF321 /* CaptureBus.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C7D4C0CB6E9E7098B67D740 /* CaptureBus.swift */; };
+		177DF713C00B1E270DBCEB93 /* ShortcutRecipeTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30023C7ED059C947D9065CB6 /* ShortcutRecipeTests.swift */; };
+		1860BA5C1DA5FDFBB43DC89E /* TextPolisher.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E5FC91A8E388DF1BCFA13AC /* TextPolisher.swift */; };
+		1D4CBEA31071A5234A1BFBE7 /* BangHaptics.swift in Sources */ = {isa = PBXBuildFile; fileRef = EAFB45561A498A7DFEEF4331 /* BangHaptics.swift */; };
+		1D90E74B72F347FD15F2B1C4 /* PhotoLibraryHelper.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E15A9E8D6116DFE5E8FB51E /* PhotoLibraryHelper.swift */; };
+		1F2A5E6A2E899A935335101C /* AppGroup.swift in Sources */ = {isa = PBXBuildFile; fileRef = 328DD2BC09CCCB6013911F0E /* AppGroup.swift */; };
+		1F64598B0817330582915897 /* BigBangEntryScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6989F35F960B205190BF996F /* BigBangEntryScreen.swift */; };
+		200A277750B2DA7EDA80C131 /* SnapLatestScreenshotIntent.swift in Sources */ = {isa = PBXBuildFile; fileRef = ECA494C9DC45214245F14EC0 /* SnapLatestScreenshotIntent.swift */; };
+		25550760A9FE42CCA2206D9A /* OnboardingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACF36F2CB2E83B5492D74AB4 /* OnboardingView.swift */; };
+		25D39074F17FF7E4DB05B560 /* FoundationModelsExtractor.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9CD885F5EC635155C1136F82 /* FoundationModelsExtractor.swift */; };
+		2AEEF9A37588904177DBADAF /* 拾文·静默归档.shortcut in Resources */ = {isa = PBXBuildFile; fileRef = AF6D639EB39BBCB9A3DB330C /* 拾文·静默归档.shortcut */; };
+		3053575242170DA880F01B9F /* BatchCaptureFlowView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0734B2D6B0F4B10C213812AF /* BatchCaptureFlowView.swift */; };
+		306C3D5B1A4BE906E1AEE512 /* SnapBangIntent.swift in Sources */ = {isa = PBXBuildFile; fileRef = 50BCC739A1527DE83352D8A4 /* SnapBangIntent.swift */; };
+		32CDC85436A31873220AEA92 /* ExportPayload.swift in Sources */ = {isa = PBXBuildFile; fileRef = F69A0E6B362938E2CB6E4C98 /* ExportPayload.swift */; };
+		3850776DE3FE5E5A789D0D6B /* BigBangView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 41F4C2F437967F5D8F6160E1 /* BigBangView.swift */; };
+		3ACDC56EFA48282A4DA51A08 /* InfoPlist.xcstrings in Resources */ = {isa = PBXBuildFile; fileRef = DCE6E8EC3C6DF95D3AD2277A /* InfoPlist.xcstrings */; };
+		3E2318679DBEDC294ECB8C1F /* ShortcutRecipeService.swift in Sources */ = {isa = PBXBuildFile; fileRef = A8FCFD762BE1E794C740F994 /* ShortcutRecipeService.swift */; };
+		3E4652F615EC945407B65837 /* TextRecognizer.swift in Sources */ = {isa = PBXBuildFile; fileRef = B8CB102C13AD26AEE9866874 /* TextRecognizer.swift */; };
+		3F79F34B60E52B8F12EB0C9D /* PhotoWatchService.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1BA656DDD6A0BAA41416D7B /* PhotoWatchService.swift */; };
+		41150F967E5CCA2845600280 /* NaturalLanguageExtractor.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9CB92E8EA11E0C8CDCCEA65 /* NaturalLanguageExtractor.swift */; };
+		4623E984C208BF02CF43833F /* SnapTextShareExtension.appex in Embed Foundation Extensions */ = {isa = PBXBuildFile; fileRef = 8AB5E96AC8B096E392A9BFEB /* SnapTextShareExtension.appex */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
+		475D6888054AA3C5A1AC8532 /* NaturalLanguageExtractor.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9CB92E8EA11E0C8CDCCEA65 /* NaturalLanguageExtractor.swift */; };
+		4B5CA3ED5A438CD347795475 /* ArchiveEntry.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2055C618BA59519ECFDDC9DD /* ArchiveEntry.swift */; };
+		4B606628D453E26B4D50BDDC /* PhotoWatchService.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1BA656DDD6A0BAA41416D7B /* PhotoWatchService.swift */; };
+		4CC75CAD4205704A2E2C48A9 /* ScreenshotCleanupPolicy.swift in Sources */ = {isa = PBXBuildFile; fileRef = F59C09C22FB597B75A82EE27 /* ScreenshotCleanupPolicy.swift */; };
+		4EA6ECF01E9DC80787A0F756 /* KnowledgeExtractor.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9371440094E7C1AE5EDD682B /* KnowledgeExtractor.swift */; };
+		56173EFB3EEC7FA286D23752 /* CaptureFlowView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 993C1E8D43592D598A510147 /* CaptureFlowView.swift */; };
+		6171309DD465B12665FE3236 /* BigBangView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 41F4C2F437967F5D8F6160E1 /* BigBangView.swift */; };
+		685941C8C08CD73C0FA418C2 /* KnowledgeExtractor.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9371440094E7C1AE5EDD682B /* KnowledgeExtractor.swift */; };
+		6934642ACAFD8053A82C7A66 /* Localizable.xcstrings in Resources */ = {isa = PBXBuildFile; fileRef = 96AA8F5CA9349F5718887B86 /* Localizable.xcstrings */; };
+		69C71C92A6AE548D858EFD4A /* SettingsStore.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D167BDC9DAF9E13B66DCCD5 /* SettingsStore.swift */; };
+		6D75880FAE71FD951C5E2719 /* PhotoLibraryHelper.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E15A9E8D6116DFE5E8FB51E /* PhotoLibraryHelper.swift */; };
+		730CAE44ABAB3AADDC08AD96 /* Localizable.xcstrings in Resources */ = {isa = PBXBuildFile; fileRef = 96AA8F5CA9349F5718887B86 /* Localizable.xcstrings */; };
+		737CDF1E9D82E4A66E92BC23 /* BackgroundRefresher.swift in Sources */ = {isa = PBXBuildFile; fileRef = D962A37BD38059A162622706 /* BackgroundRefresher.swift */; };
+		75F5FBE1006C0B2817D88BE0 /* SettingsStore.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D167BDC9DAF9E13B66DCCD5 /* SettingsStore.swift */; };
+		76653F5C8B5F3F9744E753DD /* SnapArchiveControl.swift in Sources */ = {isa = PBXBuildFile; fileRef = 124CD0ABA7F1EC63AAB7892D /* SnapArchiveControl.swift */; };
+		786F400B501030265B27234D /* AppGroup.swift in Sources */ = {isa = PBXBuildFile; fileRef = 328DD2BC09CCCB6013911F0E /* AppGroup.swift */; };
+		81129D54210F32601F7BC8BF /* ExportService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91B52397CCCF52FA82E3E0EA /* ExportService.swift */; };
+		8126165FEACE446755683E10 /* ExportAllBuilder.swift in Sources */ = {isa = PBXBuildFile; fileRef = 70E7FCDB77CDC1F56A0932B0 /* ExportAllBuilder.swift */; };
+		81D42596CB22A80666E1AC39 /* CapturePipeline.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52854B9AC15562B89E8B1E69 /* CapturePipeline.swift */; };
+		825F23730C2FDD55357BB7AC /* EntityExtractor.swift in Sources */ = {isa = PBXBuildFile; fileRef = B8D4B6B08D74CCDC144C366F /* EntityExtractor.swift */; };
+		8406AC6D42809BFD194B33FD /* ExportPayload.swift in Sources */ = {isa = PBXBuildFile; fileRef = F69A0E6B362938E2CB6E4C98 /* ExportPayload.swift */; };
+		85300FA7D83C595456397B7D /* LockScreenView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A802E466C279B6476B8A9058 /* LockScreenView.swift */; };
+		86623AE35C2DDE46114650C5 /* ExportServiceTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACE7B4531E4F5A5DE3F0A1B4 /* ExportServiceTests.swift */; };
+		868F2E496FF82B34EC66EB2F /* SetupGuideView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 76A7C4EBCCD212B0D4548695 /* SetupGuideView.swift */; };
+		8698EB6BF633EBD6080C23D2 /* Localizable.xcstrings in Resources */ = {isa = PBXBuildFile; fileRef = 96AA8F5CA9349F5718887B86 /* Localizable.xcstrings */; };
+		8C919684B4B6B65434CEF5EB /* PhotoWatchService.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1BA656DDD6A0BAA41416D7B /* PhotoWatchService.swift */; };
+		8CA359B962F084DF0153BC1F /* CapturePipeline.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52854B9AC15562B89E8B1E69 /* CapturePipeline.swift */; };
+		8CAE20749062FB4E24EA06D5 /* SnapLatestScreenshotIntent.swift in Sources */ = {isa = PBXBuildFile; fileRef = ECA494C9DC45214245F14EC0 /* SnapLatestScreenshotIntent.swift */; };
+		8F3B038B05AC31AD0985DBBF /* ExportPayload.swift in Sources */ = {isa = PBXBuildFile; fileRef = F69A0E6B362938E2CB6E4C98 /* ExportPayload.swift */; };
+		8FD4B17ABA34A614950E169C /* TextPolisher.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E5FC91A8E388DF1BCFA13AC /* TextPolisher.swift */; };
+		9053070347F4535052CF2D4F /* FoundationModelsExtractor.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9CD885F5EC635155C1136F82 /* FoundationModelsExtractor.swift */; };
+		90B4D75CC1481A502DC0B352 /* 拾文·大爆炸.shortcut in Resources */ = {isa = PBXBuildFile; fileRef = 6BD3A1ADEF5D17CD252E9E12 /* 拾文·大爆炸.shortcut */; };
+		94761BE7D778F697FE4E0FC5 /* FoundationModelsExtractor.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9CD885F5EC635155C1136F82 /* FoundationModelsExtractor.swift */; };
+		951A7DEA9AE22933F0954719 /* CaptureBus.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C7D4C0CB6E9E7098B67D740 /* CaptureBus.swift */; };
+		95A9894523EFB632EB4F0507 /* ArchiveListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6A6726B6CC7E618CC280A8E7 /* ArchiveListView.swift */; };
+		972C168EA3BA45C3822F0881 /* ImageZoomViewer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 24F0EB4937B0AC55E5B702F9 /* ImageZoomViewer.swift */; };
+		981C2BA600C9F7182CBD9D54 /* SnapTextShortcuts.swift in Sources */ = {isa = PBXBuildFile; fileRef = 414395102D2D581885909D8D /* SnapTextShortcuts.swift */; };
+		986EF32FF6877FC193E90D7E /* ExportAllBuilder.swift in Sources */ = {isa = PBXBuildFile; fileRef = 70E7FCDB77CDC1F56A0932B0 /* ExportAllBuilder.swift */; };
+		98D73ED0578D3A871CCA1963 /* ArchiveDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5BDB19E0686F351B5890B3BD /* ArchiveDetailView.swift */; };
+		98E55500996EDB93A47CBEF5 /* TokenFlowLayout.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2147FDBC6B344ED66D12D5B6 /* TokenFlowLayout.swift */; };
+		9BAA0CF18170A347CDC1833B /* CaptureBus.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C7D4C0CB6E9E7098B67D740 /* CaptureBus.swift */; };
+		9DC8D4E2AB79173D21720559 /* TokenJoiner.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2AE06F650A98E842DDCF8D3 /* TokenJoiner.swift */; };
+		A0B3C4CB46A6B08B202F92AC /* ProcessedAssetStore.swift in Sources */ = {isa = PBXBuildFile; fileRef = DEE1EF4E1D3BCB84A07851B5 /* ProcessedAssetStore.swift */; };
+		A12DFB25FF979E9762BE5413 /* SettingsStore.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D167BDC9DAF9E13B66DCCD5 /* SettingsStore.swift */; };
+		A4460AA5FE454ECD1EF9E0ED /* SnapArchiveIntents.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1211AFECA02B6C7F83461C0C /* SnapArchiveIntents.swift */; };
+		A48C8E8C31423CA80A0B5479 /* ArchiveStore.swift in Sources */ = {isa = PBXBuildFile; fileRef = BF874FE412B3AA8323FB5C85 /* ArchiveStore.swift */; };
+		A941EF7299496F6F47326743 /* SnapLatestScreenshotIntent.swift in Sources */ = {isa = PBXBuildFile; fileRef = ECA494C9DC45214245F14EC0 /* SnapLatestScreenshotIntent.swift */; };
+		A9C806B9A3FFB6565D8D8562 /* DemoSupport.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C4125012ADFAEF73B977641 /* DemoSupport.swift */; };
+		AC333D90DC8AD40485BF300C /* EntityExtractorTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 898C4A983BE2B02F3B88560C /* EntityExtractorTests.swift */; };
+		AC916C3CCE146A0B29B4E052 /* ShareViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 963EADD7BC3B44D3398538A5 /* ShareViewController.swift */; };
+		ADF5E59075BE2A82A316CCC8 /* TextTokenizer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C5A546AEF0985004E522938 /* TextTokenizer.swift */; };
+		AFC72C689DC969C13CBF717A /* EntityExtractor.swift in Sources */ = {isa = PBXBuildFile; fileRef = B8D4B6B08D74CCDC144C366F /* EntityExtractor.swift */; };
+		B32CA98681B3A9F774DD4C2A /* AppGroup.swift in Sources */ = {isa = PBXBuildFile; fileRef = 328DD2BC09CCCB6013911F0E /* AppGroup.swift */; };
+		B419C2178C2C5828686D5DCF /* BigBangView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 41F4C2F437967F5D8F6160E1 /* BigBangView.swift */; };
+		B619656A7A9CE07632CBCDD8 /* ProcessedAssetStore.swift in Sources */ = {isa = PBXBuildFile; fileRef = DEE1EF4E1D3BCB84A07851B5 /* ProcessedAssetStore.swift */; };
+		B6751ACF09B3544867B265B6 /* BigBangEntryScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6989F35F960B205190BF996F /* BigBangEntryScreen.swift */; };
+		B6CC70E5764B29F665C74320 /* ProcessedAssetStore.swift in Sources */ = {isa = PBXBuildFile; fileRef = DEE1EF4E1D3BCB84A07851B5 /* ProcessedAssetStore.swift */; };
+		B715453D7271E4D087F2060E /* CapturePipeline.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52854B9AC15562B89E8B1E69 /* CapturePipeline.swift */; };
+		B9016035B77B839263A7A79F /* ArchiveStore.swift in Sources */ = {isa = PBXBuildFile; fileRef = BF874FE412B3AA8323FB5C85 /* ArchiveStore.swift */; };
+		BCE5D91752DE6FF2A8E909C3 /* TokenJoiner.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2AE06F650A98E842DDCF8D3 /* TokenJoiner.swift */; };
+		BD0DC76B2B6E2F9C5710CEE3 /* CaptureFlowView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 993C1E8D43592D598A510147 /* CaptureFlowView.swift */; };
+		BDB1FE68990A593A57A69A74 /* TokenJoiner.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2AE06F650A98E842DDCF8D3 /* TokenJoiner.swift */; };
+		BE693A46192C9BDDC20AB074 /* TextRecognizer.swift in Sources */ = {isa = PBXBuildFile; fileRef = B8CB102C13AD26AEE9866874 /* TextRecognizer.swift */; };
+		BE7E93E45EB9B4A7E410DB64 /* ShareExtensionCoordinator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3BCDACA0AC5FCD85AB97ED92 /* ShareExtensionCoordinator.swift */; };
+		C4CB2E31F20508929E05A035 /* KnowledgeExtractor.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9371440094E7C1AE5EDD682B /* KnowledgeExtractor.swift */; };
+		C60ADC9C50048DC5885479FE /* BangHaptics.swift in Sources */ = {isa = PBXBuildFile; fileRef = EAFB45561A498A7DFEEF4331 /* BangHaptics.swift */; };
+		C8A988651B46484C6955319D /* ExportBridge.swift in Sources */ = {isa = PBXBuildFile; fileRef = E212CEE1CEF2667E971C0CD2 /* ExportBridge.swift */; };
+		CB952A96982D97CB11ED4BE7 /* TextPolishService.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2001B3480A9637A87370ACE /* TextPolishService.swift */; };
+		CE2F644CE12869E44A447AA7 /* SnapTextApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8169A26FA71365D95CCD7144 /* SnapTextApp.swift */; };
+		CE89593A212FCD4DA0F5C678 /* BangHaptics.swift in Sources */ = {isa = PBXBuildFile; fileRef = EAFB45561A498A7DFEEF4331 /* BangHaptics.swift */; };
+		CFDE1EDFE7494B01FBAC8BF6 /* ScreenshotCleanupPolicy.swift in Sources */ = {isa = PBXBuildFile; fileRef = F59C09C22FB597B75A82EE27 /* ScreenshotCleanupPolicy.swift */; };
+		D08C6AE871A2E9119CF76F23 /* TextTokenizer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C5A546AEF0985004E522938 /* TextTokenizer.swift */; };
+		D6A8776BE7C824B64BA770FE /* InfoPlist.xcstrings in Resources */ = {isa = PBXBuildFile; fileRef = DCE6E8EC3C6DF95D3AD2277A /* InfoPlist.xcstrings */; };
+		D6AE30947FB617223B18ECF1 /* BigBangEntryScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6989F35F960B205190BF996F /* BigBangEntryScreen.swift */; };
+		D71A4E29C50F8F05D05A450F /* RootView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4DD41D36139A9B31ECF37C58 /* RootView.swift */; };
+		D80C643EAD47C441C6422242 /* TextTokenizer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C5A546AEF0985004E522938 /* TextTokenizer.swift */; };
+		D885A3ACC5B323B47EAA7E80 /* TextPolisher.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E5FC91A8E388DF1BCFA13AC /* TextPolisher.swift */; };
+		D8AE20ACB8EE0875A5DE6BDB /* TokenFlowLayout.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2147FDBC6B344ED66D12D5B6 /* TokenFlowLayout.swift */; };
+		DC6637922519C47630B53E03 /* CaptureFlowView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 993C1E8D43592D598A510147 /* CaptureFlowView.swift */; };
+		E8A0C30E9E831EFB154E27BB /* ExportService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91B52397CCCF52FA82E3E0EA /* ExportService.swift */; };
+		E986979621EF4F346C77D25B /* TextPolishService.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2001B3480A9637A87370ACE /* TextPolishService.swift */; };
+		EBF0BDF18BBD5138FD985E98 /* TokenFlowLayout.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2147FDBC6B344ED66D12D5B6 /* TokenFlowLayout.swift */; };
+		ED3C915329D101A56E6FE226 /* TokenJoinerTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8770CE54FBF907CB2865AD7B /* TokenJoinerTests.swift */; };
+		ED9C70FB1C74D195114BD975 /* CameraPickers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E2E87DD8BF09B047AA38EF4 /* CameraPickers.swift */; };
+		EF1A41B7D4BAF870656D29AE /* AdditionalTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A3074F5D402829F563350A2 /* AdditionalTests.swift */; };
+		F1383491B7F8A5544DD987C8 /* CaptureView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C320C0FE3DA8D6B64DDC8C17 /* CaptureView.swift */; };
+		F13CA79B38319533682193D3 /* ExportBridge.swift in Sources */ = {isa = PBXBuildFile; fileRef = E212CEE1CEF2667E971C0CD2 /* ExportBridge.swift */; };
+		F13F3DBE9A74E088ABA28C23 /* SpotlightIndexer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 14738CEFEFE8C37222BCD968 /* SpotlightIndexer.swift */; };
+		F1F18E9EBF359D890E61D45C /* PhotoLibraryHelper.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E15A9E8D6116DFE5E8FB51E /* PhotoLibraryHelper.swift */; };
+		F2413F3EFCBD6BBAE3523E3E /* TextPolisherTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 767592CFC9B5BFFE0343F798 /* TextPolisherTests.swift */; };
+		F518879A6F07D871C53EE3E2 /* ArchiveStore.swift in Sources */ = {isa = PBXBuildFile; fileRef = BF874FE412B3AA8323FB5C85 /* ArchiveStore.swift */; };
+		F6D3AB933B5060B0A15C2037 /* TextPolishService.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2001B3480A9637A87370ACE /* TextPolishService.swift */; };
+		FB3A9121FEE582FAA88A7C64 /* ExportService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91B52397CCCF52FA82E3E0EA /* ExportService.swift */; };
+		FBF9B27F4727CD9525CABC3E /* InfoPlist.xcstrings in Resources */ = {isa = PBXBuildFile; fileRef = DCE6E8EC3C6DF95D3AD2277A /* InfoPlist.xcstrings */; };
+		FD75B86721D2E6B2A42AEBE9 /* ExportBridge.swift in Sources */ = {isa = PBXBuildFile; fileRef = E212CEE1CEF2667E971C0CD2 /* ExportBridge.swift */; };
+		FDCF14427B1F89180590CE59 /* TextTokenizerTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7DBF75CC78678B283A8C36B6 /* TextTokenizerTests.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		63CCB5FD399DCFB278AAEDFA /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 8E63E96C3FDD9E731CCFB06F /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 12BE2A8AE3CBB4EBCAE94830;
+			remoteInfo = SnapTextShareExtension;
+		};
+		912721C0D81741A8554C5C43 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 8E63E96C3FDD9E731CCFB06F /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = B7FE6314947E2C70DCABD5C5;
+			remoteInfo = SnapText;
+		};
+		AE963C8B2909065210ED6EB4 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 8E63E96C3FDD9E731CCFB06F /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = EC988805EA3BF52E4C41923D;
+			remoteInfo = SnapTextWidgets;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXCopyFilesBuildPhase section */
+		E3B7DF50C308606EE95DBAB1 /* Embed Foundation Extensions */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = "";
+			dstSubfolderSpec = 13;
+			files = (
+				4623E984C208BF02CF43833F /* SnapTextShareExtension.appex in Embed Foundation Extensions */,
+				137D6F5290F73217816427AF /* SnapTextWidgets.appex in Embed Foundation Extensions */,
+			);
+			name = "Embed Foundation Extensions";
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXCopyFilesBuildPhase section */
+
+/* Begin PBXFileReference section */
+		0734B2D6B0F4B10C213812AF /* BatchCaptureFlowView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BatchCaptureFlowView.swift; sourceTree = "<group>"; };
+		0C4125012ADFAEF73B977641 /* DemoSupport.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DemoSupport.swift; sourceTree = "<group>"; };
+		0FD68E22DD505E0D07425218 /* SnapTextWidgets.appex */ = {isa = PBXFileReference; includeInIndex = 0; lastKnownFileType = "wrapper.app-extension"; path = SnapTextWidgets.appex; sourceTree = BUILT_PRODUCTS_DIR; };
+		1211AFECA02B6C7F83461C0C /* SnapArchiveIntents.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SnapArchiveIntents.swift; sourceTree = "<group>"; };
+		124CD0ABA7F1EC63AAB7892D /* SnapArchiveControl.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SnapArchiveControl.swift; sourceTree = "<group>"; };
+		14738CEFEFE8C37222BCD968 /* SpotlightIndexer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SpotlightIndexer.swift; sourceTree = "<group>"; };
+		16C9F2349430D5F7A952430D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
+		180250B2F1AD6E51D4316803 /* SnapTextShareExtension.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = SnapTextShareExtension.entitlements; sourceTree = "<group>"; };
+		1A3074F5D402829F563350A2 /* AdditionalTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AdditionalTests.swift; sourceTree = "<group>"; };
+		2055C618BA59519ECFDDC9DD /* ArchiveEntry.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ArchiveEntry.swift; sourceTree = "<group>"; };
+		2147FDBC6B344ED66D12D5B6 /* TokenFlowLayout.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TokenFlowLayout.swift; sourceTree = "<group>"; };
+		24F0EB4937B0AC55E5B702F9 /* ImageZoomViewer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageZoomViewer.swift; sourceTree = "<group>"; };
+		30023C7ED059C947D9065CB6 /* ShortcutRecipeTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShortcutRecipeTests.swift; sourceTree = "<group>"; };
+		328DD2BC09CCCB6013911F0E /* AppGroup.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppGroup.swift; sourceTree = "<group>"; };
+		3B812181C367A4272A7497A9 /* SnapText.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = SnapText.entitlements; sourceTree = "<group>"; };
+		3BCDACA0AC5FCD85AB97ED92 /* ShareExtensionCoordinator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShareExtensionCoordinator.swift; sourceTree = "<group>"; };
+		414395102D2D581885909D8D /* SnapTextShortcuts.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SnapTextShortcuts.swift; sourceTree = "<group>"; };
+		417F3BD311AFFD2D1A76508A /* SnapText.app */ = {isa = PBXFileReference; includeInIndex = 0; lastKnownFileType = wrapper.application; path = SnapText.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		41F4C2F437967F5D8F6160E1 /* BigBangView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BigBangView.swift; sourceTree = "<group>"; };
+		4C5A546AEF0985004E522938 /* TextTokenizer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextTokenizer.swift; sourceTree = "<group>"; };
+		4C7D4C0CB6E9E7098B67D740 /* CaptureBus.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CaptureBus.swift; sourceTree = "<group>"; };
+		4D167BDC9DAF9E13B66DCCD5 /* SettingsStore.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsStore.swift; sourceTree = "<group>"; };
+		4DD41D36139A9B31ECF37C58 /* RootView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RootView.swift; sourceTree = "<group>"; };
+		4E5FC91A8E388DF1BCFA13AC /* TextPolisher.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextPolisher.swift; sourceTree = "<group>"; };
+		50BCC739A1527DE83352D8A4 /* SnapBangIntent.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SnapBangIntent.swift; sourceTree = "<group>"; };
+		52854B9AC15562B89E8B1E69 /* CapturePipeline.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CapturePipeline.swift; sourceTree = "<group>"; };
+		5BDB19E0686F351B5890B3BD /* ArchiveDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ArchiveDetailView.swift; sourceTree = "<group>"; };
+		5F973C0BA727BE1D1D8ED15C /* PrivacyInfo.xcprivacy */ = {isa = PBXFileReference; path = PrivacyInfo.xcprivacy; sourceTree = "<group>"; };
+		662353BC2E01921BDDFAC23B /* SnapTextTests.xctest */ = {isa = PBXFileReference; includeInIndex = 0; lastKnownFileType = wrapper.cfbundle; path = SnapTextTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		6989F35F960B205190BF996F /* BigBangEntryScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BigBangEntryScreen.swift; sourceTree = "<group>"; };
+		6A6726B6CC7E618CC280A8E7 /* ArchiveListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ArchiveListView.swift; sourceTree = "<group>"; };
+		6BD3A1ADEF5D17CD252E9E12 /* 拾文·大爆炸.shortcut */ = {isa = PBXFileReference; path = "拾文·大爆炸.shortcut"; sourceTree = "<group>"; };
+		6E15A9E8D6116DFE5E8FB51E /* PhotoLibraryHelper.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PhotoLibraryHelper.swift; sourceTree = "<group>"; };
+		70E7FCDB77CDC1F56A0932B0 /* ExportAllBuilder.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExportAllBuilder.swift; sourceTree = "<group>"; };
+		767592CFC9B5BFFE0343F798 /* TextPolisherTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextPolisherTests.swift; sourceTree = "<group>"; };
+		76A7C4EBCCD212B0D4548695 /* SetupGuideView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SetupGuideView.swift; sourceTree = "<group>"; };
+		7DBF75CC78678B283A8C36B6 /* TextTokenizerTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextTokenizerTests.swift; sourceTree = "<group>"; };
+		8169A26FA71365D95CCD7144 /* SnapTextApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SnapTextApp.swift; sourceTree = "<group>"; };
+		8770CE54FBF907CB2865AD7B /* TokenJoinerTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TokenJoinerTests.swift; sourceTree = "<group>"; };
+		898C4A983BE2B02F3B88560C /* EntityExtractorTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EntityExtractorTests.swift; sourceTree = "<group>"; };
+		8AB5E96AC8B096E392A9BFEB /* SnapTextShareExtension.appex */ = {isa = PBXFileReference; includeInIndex = 0; lastKnownFileType = "wrapper.app-extension"; path = SnapTextShareExtension.appex; sourceTree = BUILT_PRODUCTS_DIR; };
+		8E2E87DD8BF09B047AA38EF4 /* CameraPickers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CameraPickers.swift; sourceTree = "<group>"; };
+		91B52397CCCF52FA82E3E0EA /* ExportService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExportService.swift; sourceTree = "<group>"; };
+		9371440094E7C1AE5EDD682B /* KnowledgeExtractor.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KnowledgeExtractor.swift; sourceTree = "<group>"; };
+		963EADD7BC3B44D3398538A5 /* ShareViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShareViewController.swift; sourceTree = "<group>"; };
+		96AA8F5CA9349F5718887B86 /* Localizable.xcstrings */ = {isa = PBXFileReference; lastKnownFileType = text.json.xcstrings; path = Localizable.xcstrings; sourceTree = "<group>"; };
+		993C1E8D43592D598A510147 /* CaptureFlowView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CaptureFlowView.swift; sourceTree = "<group>"; };
+		9CD885F5EC635155C1136F82 /* FoundationModelsExtractor.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FoundationModelsExtractor.swift; sourceTree = "<group>"; };
+		A2001B3480A9637A87370ACE /* TextPolishService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextPolishService.swift; sourceTree = "<group>"; };
+		A2AE06F650A98E842DDCF8D3 /* TokenJoiner.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TokenJoiner.swift; sourceTree = "<group>"; };
+		A802E466C279B6476B8A9058 /* LockScreenView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LockScreenView.swift; sourceTree = "<group>"; };
+		A8FCFD762BE1E794C740F994 /* ShortcutRecipeService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShortcutRecipeService.swift; sourceTree = "<group>"; };
+		A9CB92E8EA11E0C8CDCCEA65 /* NaturalLanguageExtractor.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NaturalLanguageExtractor.swift; sourceTree = "<group>"; };
+		ACE7B4531E4F5A5DE3F0A1B4 /* ExportServiceTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExportServiceTests.swift; sourceTree = "<group>"; };
+		ACF36F2CB2E83B5492D74AB4 /* OnboardingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnboardingView.swift; sourceTree = "<group>"; };
+		AF6D639EB39BBCB9A3DB330C /* 拾文·静默归档.shortcut */ = {isa = PBXFileReference; path = "拾文·静默归档.shortcut"; sourceTree = "<group>"; };
+		B1744F334D43C5BBE13C735E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
+		B8CB102C13AD26AEE9866874 /* TextRecognizer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextRecognizer.swift; sourceTree = "<group>"; };
+		B8D4B6B08D74CCDC144C366F /* EntityExtractor.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EntityExtractor.swift; sourceTree = "<group>"; };
+		BF874FE412B3AA8323FB5C85 /* ArchiveStore.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ArchiveStore.swift; sourceTree = "<group>"; };
+		C320C0FE3DA8D6B64DDC8C17 /* CaptureView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CaptureView.swift; sourceTree = "<group>"; };
+		C4D2FC7204D886E4E6D78294 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		D962A37BD38059A162622706 /* BackgroundRefresher.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BackgroundRefresher.swift; sourceTree = "<group>"; };
+		DCE6E8EC3C6DF95D3AD2277A /* InfoPlist.xcstrings */ = {isa = PBXFileReference; lastKnownFileType = text.json.xcstrings; path = InfoPlist.xcstrings; sourceTree = "<group>"; };
+		DEE1EF4E1D3BCB84A07851B5 /* ProcessedAssetStore.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProcessedAssetStore.swift; sourceTree = "<group>"; };
+		E212CEE1CEF2667E971C0CD2 /* ExportBridge.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExportBridge.swift; sourceTree = "<group>"; };
+		EAFB45561A498A7DFEEF4331 /* BangHaptics.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BangHaptics.swift; sourceTree = "<group>"; };
+		ECA494C9DC45214245F14EC0 /* SnapLatestScreenshotIntent.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SnapLatestScreenshotIntent.swift; sourceTree = "<group>"; };
+		F1BA656DDD6A0BAA41416D7B /* PhotoWatchService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PhotoWatchService.swift; sourceTree = "<group>"; };
+		F59C09C22FB597B75A82EE27 /* ScreenshotCleanupPolicy.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScreenshotCleanupPolicy.swift; sourceTree = "<group>"; };
+		F69A0E6B362938E2CB6E4C98 /* ExportPayload.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExportPayload.swift; sourceTree = "<group>"; };
+		FC12D52FB395DEF031AE15A8 /* SnapTextWidgets.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = SnapTextWidgets.entitlements; sourceTree = "<group>"; };
+		FFEA235703C7D729245507FD /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXGroup section */
+		08A191EED9AAFB5B83A2DF97 /* Pipeline */ = {
+			isa = PBXGroup;
+			children = (
+				0734B2D6B0F4B10C213812AF /* BatchCaptureFlowView.swift */,
+				993C1E8D43592D598A510147 /* CaptureFlowView.swift */,
+				52854B9AC15562B89E8B1E69 /* CapturePipeline.swift */,
+			);
+			path = Pipeline;
+			sourceTree = "<group>";
+		};
+		10A88FE1664ABF5ABE428495 /* Support */ = {
+			isa = PBXGroup;
+			children = (
+				328DD2BC09CCCB6013911F0E /* AppGroup.swift */,
+				4C7D4C0CB6E9E7098B67D740 /* CaptureBus.swift */,
+				6E15A9E8D6116DFE5E8FB51E /* PhotoLibraryHelper.swift */,
+				4D167BDC9DAF9E13B66DCCD5 /* SettingsStore.swift */,
+			);
+			path = Support;
+			sourceTree = "<group>";
+		};
+		15AA4F888FF895406E8FFE41 /* SnapTextShareExtension */ = {
+			isa = PBXGroup;
+			children = (
+				B1744F334D43C5BBE13C735E /* Info.plist */,
+				3BCDACA0AC5FCD85AB97ED92 /* ShareExtensionCoordinator.swift */,
+				963EADD7BC3B44D3398538A5 /* ShareViewController.swift */,
+				180250B2F1AD6E51D4316803 /* SnapTextShareExtension.entitlements */,
+			);
+			path = SnapTextShareExtension;
+			sourceTree = "<group>";
+		};
+		173CE8092149FE06F73A45B1 /* SnapTextWidgets */ = {
+			isa = PBXGroup;
+			children = (
+				16C9F2349430D5F7A952430D /* Info.plist */,
+				124CD0ABA7F1EC63AAB7892D /* SnapArchiveControl.swift */,
+				FC12D52FB395DEF031AE15A8 /* SnapTextWidgets.entitlements */,
+			);
+			path = SnapTextWidgets;
+			sourceTree = "<group>";
+		};
+		1BAFCE866972D6085F7CB3E3 /* Intents */ = {
+			isa = PBXGroup;
+			children = (
+				1211AFECA02B6C7F83461C0C /* SnapArchiveIntents.swift */,
+				50BCC739A1527DE83352D8A4 /* SnapBangIntent.swift */,
+				414395102D2D581885909D8D /* SnapTextShortcuts.swift */,
+			);
+			path = Intents;
+			sourceTree = "<group>";
+		};
+		225A3C88DB48BC3CE60F024E /* BigBang */ = {
+			isa = PBXGroup;
+			children = (
+				EAFB45561A498A7DFEEF4331 /* BangHaptics.swift */,
+				6989F35F960B205190BF996F /* BigBangEntryScreen.swift */,
+				41F4C2F437967F5D8F6160E1 /* BigBangView.swift */,
+				B8D4B6B08D74CCDC144C366F /* EntityExtractor.swift */,
+				4C5A546AEF0985004E522938 /* TextTokenizer.swift */,
+				2147FDBC6B344ED66D12D5B6 /* TokenFlowLayout.swift */,
+				A2AE06F650A98E842DDCF8D3 /* TokenJoiner.swift */,
+			);
+			path = BigBang;
+			sourceTree = "<group>";
+		};
+		25D9C72FF7D51A85A274C272 /* SharedKit */ = {
+			isa = PBXGroup;
+			children = (
+				BC01D2FCE7D468BD5FC72D5E /* Core */,
+				FB1A1790197C64C18B725341 /* Intents */,
+				7267CA80B773A0F0043AF9DE /* Models */,
+				10A88FE1664ABF5ABE428495 /* Support */,
+			);
+			path = SharedKit;
+			sourceTree = "<group>";
+		};
+		38A49DBF0E2C8C754F33973C /* Onboarding */ = {
+			isa = PBXGroup;
+			children = (
+				ACF36F2CB2E83B5492D74AB4 /* OnboardingView.swift */,
+			);
+			path = Onboarding;
+			sourceTree = "<group>";
+		};
+		48C931E8B1BEE70D3BCE59C8 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				417F3BD311AFFD2D1A76508A /* SnapText.app */,
+				8AB5E96AC8B096E392A9BFEB /* SnapTextShareExtension.appex */,
+				662353BC2E01921BDDFAC23B /* SnapTextTests.xctest */,
+				0FD68E22DD505E0D07425218 /* SnapTextWidgets.appex */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		51B1B4AB23CC50111302A166 /* ArchiveList */ = {
+			isa = PBXGroup;
+			children = (
+				6A6726B6CC7E618CC280A8E7 /* ArchiveListView.swift */,
+			);
+			path = ArchiveList;
+			sourceTree = "<group>";
+		};
+		652C6394D86B3214C29B700F /* Watch */ = {
+			isa = PBXGroup;
+			children = (
+				F1BA656DDD6A0BAA41416D7B /* PhotoWatchService.swift */,
+				DEE1EF4E1D3BCB84A07851B5 /* ProcessedAssetStore.swift */,
+				F59C09C22FB597B75A82EE27 /* ScreenshotCleanupPolicy.swift */,
+			);
+			path = Watch;
+			sourceTree = "<group>";
+		};
+		6F7CC536FC29B31B07A02CFA /* ArchiveDetail */ = {
+			isa = PBXGroup;
+			children = (
+				5BDB19E0686F351B5890B3BD /* ArchiveDetailView.swift */,
+				24F0EB4937B0AC55E5B702F9 /* ImageZoomViewer.swift */,
+			);
+			path = ArchiveDetail;
+			sourceTree = "<group>";
+		};
+		711A1F007C1D29C5C6AC1624 /* Export */ = {
+			isa = PBXGroup;
+			children = (
+				70E7FCDB77CDC1F56A0932B0 /* ExportAllBuilder.swift */,
+				E212CEE1CEF2667E971C0CD2 /* ExportBridge.swift */,
+				F69A0E6B362938E2CB6E4C98 /* ExportPayload.swift */,
+				91B52397CCCF52FA82E3E0EA /* ExportService.swift */,
+			);
+			path = Export;
+			sourceTree = "<group>";
+		};
+		7267CA80B773A0F0043AF9DE /* Models */ = {
+			isa = PBXGroup;
+			children = (
+				2055C618BA59519ECFDDC9DD /* ArchiveEntry.swift */,
+				BF874FE412B3AA8323FB5C85 /* ArchiveStore.swift */,
+			);
+			path = Models;
+			sourceTree = "<group>";
+		};
+		810E1AC1E142A729259D0F6A /* OCR */ = {
+			isa = PBXGroup;
+			children = (
+				B8CB102C13AD26AEE9866874 /* TextRecognizer.swift */,
+			);
+			path = OCR;
+			sourceTree = "<group>";
+		};
+		81B1CE2EAB855D0C8B3E0650 /* Tests */ = {
+			isa = PBXGroup;
+			children = (
+				1A3074F5D402829F563350A2 /* AdditionalTests.swift */,
+				898C4A983BE2B02F3B88560C /* EntityExtractorTests.swift */,
+				ACE7B4531E4F5A5DE3F0A1B4 /* ExportServiceTests.swift */,
+				30023C7ED059C947D9065CB6 /* ShortcutRecipeTests.swift */,
+				767592CFC9B5BFFE0343F798 /* TextPolisherTests.swift */,
+				7DBF75CC78678B283A8C36B6 /* TextTokenizerTests.swift */,
+				8770CE54FBF907CB2865AD7B /* TokenJoinerTests.swift */,
+			);
+			path = Tests;
+			sourceTree = "<group>";
+		};
+		833AA97AAA4D50A809F1F6DE /* Capture */ = {
+			isa = PBXGroup;
+			children = (
+				8E2E87DD8BF09B047AA38EF4 /* CameraPickers.swift */,
+				C320C0FE3DA8D6B64DDC8C17 /* CaptureView.swift */,
+			);
+			path = Capture;
+			sourceTree = "<group>";
+		};
+		83B0799C7A98E0AC73F9D657 /* Features */ = {
+			isa = PBXGroup;
+			children = (
+				6F7CC536FC29B31B07A02CFA /* ArchiveDetail */,
+				51B1B4AB23CC50111302A166 /* ArchiveList */,
+				833AA97AAA4D50A809F1F6DE /* Capture */,
+				38A49DBF0E2C8C754F33973C /* Onboarding */,
+				9AE41AA5817C3D376A3B21A2 /* SetupGuide */,
+			);
+			path = Features;
+			sourceTree = "<group>";
+		};
+		8C1DAAD56A0C3D16B37EC3B4 /* SnapText */ = {
+			isa = PBXGroup;
+			children = (
+				FFEA235703C7D729245507FD /* Info.plist */,
+				3B812181C367A4272A7497A9 /* SnapText.entitlements */,
+				FBB6D332AD710DE6FB931993 /* App */,
+				83B0799C7A98E0AC73F9D657 /* Features */,
+				1BAFCE866972D6085F7CB3E3 /* Intents */,
+				AB17BBA72A78A02880DBC9DC /* Resources */,
+			);
+			path = SnapText;
+			sourceTree = "<group>";
+		};
+		9AE41AA5817C3D376A3B21A2 /* SetupGuide */ = {
+			isa = PBXGroup;
+			children = (
+				76A7C4EBCCD212B0D4548695 /* SetupGuideView.swift */,
+				A8FCFD762BE1E794C740F994 /* ShortcutRecipeService.swift */,
+			);
+			path = SetupGuide;
+			sourceTree = "<group>";
+		};
+		AB17BBA72A78A02880DBC9DC /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				C4D2FC7204D886E4E6D78294 /* Assets.xcassets */,
+				DCE6E8EC3C6DF95D3AD2277A /* InfoPlist.xcstrings */,
+				96AA8F5CA9349F5718887B86 /* Localizable.xcstrings */,
+				5F973C0BA727BE1D1D8ED15C /* PrivacyInfo.xcprivacy */,
+				EF4141FDB1B86FE735B551D1 /* Shortcuts */,
+			);
+			path = Resources;
+			sourceTree = "<group>";
+		};
+		ACF919BFE6378F4115156B70 /* Extraction */ = {
+			isa = PBXGroup;
+			children = (
+				9CD885F5EC635155C1136F82 /* FoundationModelsExtractor.swift */,
+				9371440094E7C1AE5EDD682B /* KnowledgeExtractor.swift */,
+				A9CB92E8EA11E0C8CDCCEA65 /* NaturalLanguageExtractor.swift */,
+				4E5FC91A8E388DF1BCFA13AC /* TextPolisher.swift */,
+				A2001B3480A9637A87370ACE /* TextPolishService.swift */,
+			);
+			path = Extraction;
+			sourceTree = "<group>";
+		};
+		BC01D2FCE7D468BD5FC72D5E /* Core */ = {
+			isa = PBXGroup;
+			children = (
+				225A3C88DB48BC3CE60F024E /* BigBang */,
+				711A1F007C1D29C5C6AC1624 /* Export */,
+				ACF919BFE6378F4115156B70 /* Extraction */,
+				810E1AC1E142A729259D0F6A /* OCR */,
+				08A191EED9AAFB5B83A2DF97 /* Pipeline */,
+				652C6394D86B3214C29B700F /* Watch */,
+			);
+			path = Core;
+			sourceTree = "<group>";
+		};
+		EF4141FDB1B86FE735B551D1 /* Shortcuts */ = {
+			isa = PBXGroup;
+			children = (
+				6BD3A1ADEF5D17CD252E9E12 /* 拾文·大爆炸.shortcut */,
+				AF6D639EB39BBCB9A3DB330C /* 拾文·静默归档.shortcut */,
+			);
+			path = Shortcuts;
+			sourceTree = "<group>";
+		};
+		EF8C7961B8A7CFF389393E9A = {
+			isa = PBXGroup;
+			children = (
+				25D9C72FF7D51A85A274C272 /* SharedKit */,
+				8C1DAAD56A0C3D16B37EC3B4 /* SnapText */,
+				15AA4F888FF895406E8FFE41 /* SnapTextShareExtension */,
+				173CE8092149FE06F73A45B1 /* SnapTextWidgets */,
+				81B1CE2EAB855D0C8B3E0650 /* Tests */,
+				48C931E8B1BEE70D3BCE59C8 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		FB1A1790197C64C18B725341 /* Intents */ = {
+			isa = PBXGroup;
+			children = (
+				ECA494C9DC45214245F14EC0 /* SnapLatestScreenshotIntent.swift */,
+			);
+			path = Intents;
+			sourceTree = "<group>";
+		};
+		FBB6D332AD710DE6FB931993 /* App */ = {
+			isa = PBXGroup;
+			children = (
+				D962A37BD38059A162622706 /* BackgroundRefresher.swift */,
+				0C4125012ADFAEF73B977641 /* DemoSupport.swift */,
+				A802E466C279B6476B8A9058 /* LockScreenView.swift */,
+				4DD41D36139A9B31ECF37C58 /* RootView.swift */,
+				8169A26FA71365D95CCD7144 /* SnapTextApp.swift */,
+				14738CEFEFE8C37222BCD968 /* SpotlightIndexer.swift */,
+			);
+			path = App;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		12BE2A8AE3CBB4EBCAE94830 /* SnapTextShareExtension */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 2A58056377CEFD52D749F97B /* Build configuration list for PBXNativeTarget "SnapTextShareExtension" */;
+			buildPhases = (
+				240046F007BAB0F4AEDF84B1 /* Sources */,
+				E7CC5431B736F8C606CD83C7 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = SnapTextShareExtension;
+			packageProductDependencies = (
+			);
+			productName = SnapTextShareExtension;
+			productReference = 8AB5E96AC8B096E392A9BFEB /* SnapTextShareExtension.appex */;
+			productType = "com.apple.product-type.app-extension";
+		};
+		4F15499AAFD06547EEC54F40 /* SnapTextTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 994D86A589CFCBC86530518A /* Build configuration list for PBXNativeTarget "SnapTextTests" */;
+			buildPhases = (
+				04B6A004DEA0C503FF7AB76E /* Sources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				C6C07A8FBF9E2F572372D3AF /* PBXTargetDependency */,
+			);
+			name = SnapTextTests;
+			packageProductDependencies = (
+			);
+			productName = SnapTextTests;
+			productReference = 662353BC2E01921BDDFAC23B /* SnapTextTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		B7FE6314947E2C70DCABD5C5 /* SnapText */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 23073CC0BB85BD648715EA7B /* Build configuration list for PBXNativeTarget "SnapText" */;
+			buildPhases = (
+				A8C023F0D66B9E89055FAEDD /* Sources */,
+				AEB77060C744469ECFED8A3B /* Resources */,
+				E3B7DF50C308606EE95DBAB1 /* Embed Foundation Extensions */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				3E1FE9CE94D4B347BAE8CE5C /* PBXTargetDependency */,
+				612A2673441D8E52F981BD1D /* PBXTargetDependency */,
+			);
+			name = SnapText;
+			packageProductDependencies = (
+			);
+			productName = SnapText;
+			productReference = 417F3BD311AFFD2D1A76508A /* SnapText.app */;
+			productType = "com.apple.product-type.application";
+		};
+		EC988805EA3BF52E4C41923D /* SnapTextWidgets */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = C23838FEF690D281ADD8029D /* Build configuration list for PBXNativeTarget "SnapTextWidgets" */;
+			buildPhases = (
+				6BCF9C3ABBBC37C8B8EB842A /* Sources */,
+				0AD7D01C9EB09A2B74681ED5 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = SnapTextWidgets;
+			packageProductDependencies = (
+			);
+			productName = SnapTextWidgets;
+			productReference = 0FD68E22DD505E0D07425218 /* SnapTextWidgets.appex */;
+			productType = "com.apple.product-type.app-extension";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		8E63E96C3FDD9E731CCFB06F /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = YES;
+				LastUpgradeCheck = 1430;
+				TargetAttributes = {
+					12BE2A8AE3CBB4EBCAE94830 = {
+						DevelopmentTeam = QGC87Z9JX3;
+						ProvisioningStyle = Automatic;
+					};
+					4F15499AAFD06547EEC54F40 = {
+						DevelopmentTeam = QGC87Z9JX3;
+						ProvisioningStyle = Automatic;
+					};
+					B7FE6314947E2C70DCABD5C5 = {
+						DevelopmentTeam = QGC87Z9JX3;
+						ProvisioningStyle = Automatic;
+					};
+					EC988805EA3BF52E4C41923D = {
+						DevelopmentTeam = QGC87Z9JX3;
+						ProvisioningStyle = Automatic;
+					};
+				};
+			};
+			buildConfigurationList = 562D8A86D26FFDACD5A2D484 /* Build configuration list for PBXProject "SnapText" */;
+			developmentRegion = "zh-Hans";
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				Base,
+				en,
+				es,
+				ja,
+				ko,
+				"zh-Hans",
+			);
+			mainGroup = EF8C7961B8A7CFF389393E9A;
+			minimizedProjectReferenceProxies = 1;
+			preferredProjectObjectVersion = 77;
+			productRefGroup = 48C931E8B1BEE70D3BCE59C8 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				B7FE6314947E2C70DCABD5C5 /* SnapText */,
+				12BE2A8AE3CBB4EBCAE94830 /* SnapTextShareExtension */,
+				EC988805EA3BF52E4C41923D /* SnapTextWidgets */,
+				4F15499AAFD06547EEC54F40 /* SnapTextTests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		0AD7D01C9EB09A2B74681ED5 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				D6A8776BE7C824B64BA770FE /* InfoPlist.xcstrings in Resources */,
+				730CAE44ABAB3AADDC08AD96 /* Localizable.xcstrings in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		AEB77060C744469ECFED8A3B /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				0CF0E014E0E6057747100FCF /* Assets.xcassets in Resources */,
+				FBF9B27F4727CD9525CABC3E /* InfoPlist.xcstrings in Resources */,
+				8698EB6BF633EBD6080C23D2 /* Localizable.xcstrings in Resources */,
+				06AA12208B304EBAECC00BCA /* PrivacyInfo.xcprivacy in Resources */,
+				90B4D75CC1481A502DC0B352 /* 拾文·大爆炸.shortcut in Resources */,
+				2AEEF9A37588904177DBADAF /* 拾文·静默归档.shortcut in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		E7CC5431B736F8C606CD83C7 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				3ACDC56EFA48282A4DA51A08 /* InfoPlist.xcstrings in Resources */,
+				6934642ACAFD8053A82C7A66 /* Localizable.xcstrings in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		04B6A004DEA0C503FF7AB76E /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				EF1A41B7D4BAF870656D29AE /* AdditionalTests.swift in Sources */,
+				AC333D90DC8AD40485BF300C /* EntityExtractorTests.swift in Sources */,
+				86623AE35C2DDE46114650C5 /* ExportServiceTests.swift in Sources */,
+				177DF713C00B1E270DBCEB93 /* ShortcutRecipeTests.swift in Sources */,
+				F2413F3EFCBD6BBAE3523E3E /* TextPolisherTests.swift in Sources */,
+				FDCF14427B1F89180590CE59 /* TextTokenizerTests.swift in Sources */,
+				ED3C915329D101A56E6FE226 /* TokenJoinerTests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		240046F007BAB0F4AEDF84B1 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				B32CA98681B3A9F774DD4C2A /* AppGroup.swift in Sources */,
+				4B5CA3ED5A438CD347795475 /* ArchiveEntry.swift in Sources */,
+				A48C8E8C31423CA80A0B5479 /* ArchiveStore.swift in Sources */,
+				C60ADC9C50048DC5885479FE /* BangHaptics.swift in Sources */,
+				3053575242170DA880F01B9F /* BatchCaptureFlowView.swift in Sources */,
+				1F64598B0817330582915897 /* BigBangEntryScreen.swift in Sources */,
+				3850776DE3FE5E5A789D0D6B /* BigBangView.swift in Sources */,
+				14E1BE1C239F36A2641FF321 /* CaptureBus.swift in Sources */,
+				56173EFB3EEC7FA286D23752 /* CaptureFlowView.swift in Sources */,
+				81D42596CB22A80666E1AC39 /* CapturePipeline.swift in Sources */,
+				AFC72C689DC969C13CBF717A /* EntityExtractor.swift in Sources */,
+				0EDEE50C9A619DA3E8016BF4 /* ExportAllBuilder.swift in Sources */,
+				F13CA79B38319533682193D3 /* ExportBridge.swift in Sources */,
+				32CDC85436A31873220AEA92 /* ExportPayload.swift in Sources */,
+				81129D54210F32601F7BC8BF /* ExportService.swift in Sources */,
+				94761BE7D778F697FE4E0FC5 /* FoundationModelsExtractor.swift in Sources */,
+				685941C8C08CD73C0FA418C2 /* KnowledgeExtractor.swift in Sources */,
+				41150F967E5CCA2845600280 /* NaturalLanguageExtractor.swift in Sources */,
+				1D90E74B72F347FD15F2B1C4 /* PhotoLibraryHelper.swift in Sources */,
+				8C919684B4B6B65434CEF5EB /* PhotoWatchService.swift in Sources */,
+				B619656A7A9CE07632CBCDD8 /* ProcessedAssetStore.swift in Sources */,
+				CFDE1EDFE7494B01FBAC8BF6 /* ScreenshotCleanupPolicy.swift in Sources */,
+				69C71C92A6AE548D858EFD4A /* SettingsStore.swift in Sources */,
+				BE7E93E45EB9B4A7E410DB64 /* ShareExtensionCoordinator.swift in Sources */,
+				AC916C3CCE146A0B29B4E052 /* ShareViewController.swift in Sources */,
+				200A277750B2DA7EDA80C131 /* SnapLatestScreenshotIntent.swift in Sources */,
+				F6D3AB933B5060B0A15C2037 /* TextPolishService.swift in Sources */,
+				D885A3ACC5B323B47EAA7E80 /* TextPolisher.swift in Sources */,
+				BE693A46192C9BDDC20AB074 /* TextRecognizer.swift in Sources */,
+				D08C6AE871A2E9119CF76F23 /* TextTokenizer.swift in Sources */,
+				98E55500996EDB93A47CBEF5 /* TokenFlowLayout.swift in Sources */,
+				BDB1FE68990A593A57A69A74 /* TokenJoiner.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		6BCF9C3ABBBC37C8B8EB842A /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				1F2A5E6A2E899A935335101C /* AppGroup.swift in Sources */,
+				148A4B49159E31B938D3574A /* ArchiveEntry.swift in Sources */,
+				B9016035B77B839263A7A79F /* ArchiveStore.swift in Sources */,
+				1D4CBEA31071A5234A1BFBE7 /* BangHaptics.swift in Sources */,
+				0D025B105E72232CAFD18FC5 /* BatchCaptureFlowView.swift in Sources */,
+				B6751ACF09B3544867B265B6 /* BigBangEntryScreen.swift in Sources */,
+				6171309DD465B12665FE3236 /* BigBangView.swift in Sources */,
+				951A7DEA9AE22933F0954719 /* CaptureBus.swift in Sources */,
+				BD0DC76B2B6E2F9C5710CEE3 /* CaptureFlowView.swift in Sources */,
+				8CA359B962F084DF0153BC1F /* CapturePipeline.swift in Sources */,
+				825F23730C2FDD55357BB7AC /* EntityExtractor.swift in Sources */,
+				986EF32FF6877FC193E90D7E /* ExportAllBuilder.swift in Sources */,
+				C8A988651B46484C6955319D /* ExportBridge.swift in Sources */,
+				8406AC6D42809BFD194B33FD /* ExportPayload.swift in Sources */,
+				FB3A9121FEE582FAA88A7C64 /* ExportService.swift in Sources */,
+				25D39074F17FF7E4DB05B560 /* FoundationModelsExtractor.swift in Sources */,
+				4EA6ECF01E9DC80787A0F756 /* KnowledgeExtractor.swift in Sources */,
+				475D6888054AA3C5A1AC8532 /* NaturalLanguageExtractor.swift in Sources */,
+				6D75880FAE71FD951C5E2719 /* PhotoLibraryHelper.swift in Sources */,
+				4B606628D453E26B4D50BDDC /* PhotoWatchService.swift in Sources */,
+				B6CC70E5764B29F665C74320 /* ProcessedAssetStore.swift in Sources */,
+				0A1737DB60F4BAB2721080C1 /* ScreenshotCleanupPolicy.swift in Sources */,
+				A12DFB25FF979E9762BE5413 /* SettingsStore.swift in Sources */,
+				76653F5C8B5F3F9744E753DD /* SnapArchiveControl.swift in Sources */,
+				8CAE20749062FB4E24EA06D5 /* SnapLatestScreenshotIntent.swift in Sources */,
+				CB952A96982D97CB11ED4BE7 /* TextPolishService.swift in Sources */,
+				8FD4B17ABA34A614950E169C /* TextPolisher.swift in Sources */,
+				3E4652F615EC945407B65837 /* TextRecognizer.swift in Sources */,
+				D80C643EAD47C441C6422242 /* TextTokenizer.swift in Sources */,
+				EBF0BDF18BBD5138FD985E98 /* TokenFlowLayout.swift in Sources */,
+				9DC8D4E2AB79173D21720559 /* TokenJoiner.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		A8C023F0D66B9E89055FAEDD /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				786F400B501030265B27234D /* AppGroup.swift in Sources */,
+				98D73ED0578D3A871CCA1963 /* ArchiveDetailView.swift in Sources */,
+				0276299C7930F779CF22CE13 /* ArchiveEntry.swift in Sources */,
+				95A9894523EFB632EB4F0507 /* ArchiveListView.swift in Sources */,
+				F518879A6F07D871C53EE3E2 /* ArchiveStore.swift in Sources */,
+				737CDF1E9D82E4A66E92BC23 /* BackgroundRefresher.swift in Sources */,
+				CE89593A212FCD4DA0F5C678 /* BangHaptics.swift in Sources */,
+				0FB56401E94161BE28EB46ED /* BatchCaptureFlowView.swift in Sources */,
+				D6AE30947FB617223B18ECF1 /* BigBangEntryScreen.swift in Sources */,
+				B419C2178C2C5828686D5DCF /* BigBangView.swift in Sources */,
+				ED9C70FB1C74D195114BD975 /* CameraPickers.swift in Sources */,
+				9BAA0CF18170A347CDC1833B /* CaptureBus.swift in Sources */,
+				DC6637922519C47630B53E03 /* CaptureFlowView.swift in Sources */,
+				B715453D7271E4D087F2060E /* CapturePipeline.swift in Sources */,
+				F1383491B7F8A5544DD987C8 /* CaptureView.swift in Sources */,
+				A9C806B9A3FFB6565D8D8562 /* DemoSupport.swift in Sources */,
+				12AE5AF28BF1B091BDB36A94 /* EntityExtractor.swift in Sources */,
+				8126165FEACE446755683E10 /* ExportAllBuilder.swift in Sources */,
+				FD75B86721D2E6B2A42AEBE9 /* ExportBridge.swift in Sources */,
+				8F3B038B05AC31AD0985DBBF /* ExportPayload.swift in Sources */,
+				E8A0C30E9E831EFB154E27BB /* ExportService.swift in Sources */,
+				9053070347F4535052CF2D4F /* FoundationModelsExtractor.swift in Sources */,
+				972C168EA3BA45C3822F0881 /* ImageZoomViewer.swift in Sources */,
+				C4CB2E31F20508929E05A035 /* KnowledgeExtractor.swift in Sources */,
+				85300FA7D83C595456397B7D /* LockScreenView.swift in Sources */,
+				0149BD9878DD5F385AD03537 /* NaturalLanguageExtractor.swift in Sources */,
+				25550760A9FE42CCA2206D9A /* OnboardingView.swift in Sources */,
+				F1F18E9EBF359D890E61D45C /* PhotoLibraryHelper.swift in Sources */,
+				3F79F34B60E52B8F12EB0C9D /* PhotoWatchService.swift in Sources */,
+				A0B3C4CB46A6B08B202F92AC /* ProcessedAssetStore.swift in Sources */,
+				D71A4E29C50F8F05D05A450F /* RootView.swift in Sources */,
+				4CC75CAD4205704A2E2C48A9 /* ScreenshotCleanupPolicy.swift in Sources */,
+				75F5FBE1006C0B2817D88BE0 /* SettingsStore.swift in Sources */,
+				868F2E496FF82B34EC66EB2F /* SetupGuideView.swift in Sources */,
+				3E2318679DBEDC294ECB8C1F /* ShortcutRecipeService.swift in Sources */,
+				A4460AA5FE454ECD1EF9E0ED /* SnapArchiveIntents.swift in Sources */,
+				306C3D5B1A4BE906E1AEE512 /* SnapBangIntent.swift in Sources */,
+				A941EF7299496F6F47326743 /* SnapLatestScreenshotIntent.swift in Sources */,
+				CE2F644CE12869E44A447AA7 /* SnapTextApp.swift in Sources */,
+				981C2BA600C9F7182CBD9D54 /* SnapTextShortcuts.swift in Sources */,
+				F13F3DBE9A74E088ABA28C23 /* SpotlightIndexer.swift in Sources */,
+				E986979621EF4F346C77D25B /* TextPolishService.swift in Sources */,
+				1860BA5C1DA5FDFBB43DC89E /* TextPolisher.swift in Sources */,
+				0BCF08D9F233919E6F4FB88F /* TextRecognizer.swift in Sources */,
+				ADF5E59075BE2A82A316CCC8 /* TextTokenizer.swift in Sources */,
+				D8AE20ACB8EE0875A5DE6BDB /* TokenFlowLayout.swift in Sources */,
+				BCE5D91752DE6FF2A8E909C3 /* TokenJoiner.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		3E1FE9CE94D4B347BAE8CE5C /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 12BE2A8AE3CBB4EBCAE94830 /* SnapTextShareExtension */;
+			targetProxy = 63CCB5FD399DCFB278AAEDFA /* PBXContainerItemProxy */;
+		};
+		612A2673441D8E52F981BD1D /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = EC988805EA3BF52E4C41923D /* SnapTextWidgets */;
+			targetProxy = AE963C8B2909065210ED6EB4 /* PBXContainerItemProxy */;
+		};
+		C6C07A8FBF9E2F572372D3AF /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = B7FE6314947E2C70DCABD5C5 /* SnapText */;
+			targetProxy = 912721C0D81741A8554C5C43 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		1E9F48F93248A2CD834FDBE6 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				GENERATE_INFOPLIST_FILE = YES;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = me.snaptext.SnapTextTests;
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/SnapText.app/SnapText";
+			};
+			name = Release;
+		};
+		22EB4C5C32E0083AA9C3E483 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_ENTITLEMENTS = SnapText/SnapText.entitlements;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				INFOPLIST_FILE = SnapText/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = me.snaptext.app;
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		2B62BBA494A3E2D0514CE382 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_STYLE = Automatic;
+				COPY_PHASE_STRIP = NO;
+				CURRENT_PROJECT_VERSION = 1;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				DEVELOPMENT_TEAM = QGC87Z9JX3;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"$(inherited)",
+					"DEBUG=1",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.0;
+				MARKETING_VERSION = 1.0;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = 1;
+			};
+			name = Debug;
+		};
+		3291811B8F5AA142EEAF7ABB /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_ENTITLEMENTS = SnapTextShareExtension/SnapTextShareExtension.entitlements;
+				INFOPLIST_FILE = SnapTextShareExtension/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@executable_path/../../Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = me.snaptext.app.share;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "APP_EXTENSION SHARE_EXTENSION";
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		592BB26B1183CD081A862DAD /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				GENERATE_INFOPLIST_FILE = YES;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = me.snaptext.SnapTextTests;
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/SnapText.app/SnapText";
+			};
+			name = Debug;
+		};
+		797765B1087505D80D818038 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_ENTITLEMENTS = SnapText/SnapText.entitlements;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				INFOPLIST_FILE = SnapText/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = me.snaptext.app;
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		994B8247178A4BEBD6BA0DC0 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_STYLE = Automatic;
+				COPY_PHASE_STRIP = NO;
+				CURRENT_PROJECT_VERSION = 1;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				DEVELOPMENT_TEAM = QGC87Z9JX3;
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.0;
+				MARKETING_VERSION = 1.0;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = 1;
+			};
+			name = Release;
+		};
+		9BF04AD9AEFF65A0A57E31A9 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_ENTITLEMENTS = SnapTextWidgets/SnapTextWidgets.entitlements;
+				INFOPLIST_FILE = SnapTextWidgets/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@executable_path/../../Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = me.snaptext.app.widgets;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = APP_EXTENSION;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		C016A4AE62FF1A8435AA5F93 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_ENTITLEMENTS = SnapTextWidgets/SnapTextWidgets.entitlements;
+				INFOPLIST_FILE = SnapTextWidgets/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@executable_path/../../Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = me.snaptext.app.widgets;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = APP_EXTENSION;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		DC4BE0A453D25ABE89869684 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_ENTITLEMENTS = SnapTextShareExtension/SnapTextShareExtension.entitlements;
+				INFOPLIST_FILE = SnapTextShareExtension/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@executable_path/../../Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = me.snaptext.app.share;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "APP_EXTENSION SHARE_EXTENSION";
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		23073CC0BB85BD648715EA7B /* Build configuration list for PBXNativeTarget "SnapText" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				22EB4C5C32E0083AA9C3E483 /* Debug */,
+				797765B1087505D80D818038 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Debug;
+		};
+		2A58056377CEFD52D749F97B /* Build configuration list for PBXNativeTarget "SnapTextShareExtension" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				DC4BE0A453D25ABE89869684 /* Debug */,
+				3291811B8F5AA142EEAF7ABB /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Debug;
+		};
+		562D8A86D26FFDACD5A2D484 /* Build configuration list for PBXProject "SnapText" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				2B62BBA494A3E2D0514CE382 /* Debug */,
+				994B8247178A4BEBD6BA0DC0 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Debug;
+		};
+		994D86A589CFCBC86530518A /* Build configuration list for PBXNativeTarget "SnapTextTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				592BB26B1183CD081A862DAD /* Debug */,
+				1E9F48F93248A2CD834FDBE6 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Debug;
+		};
+		C23838FEF690D281ADD8029D /* Build configuration list for PBXNativeTarget "SnapTextWidgets" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				9BF04AD9AEFF65A0A57E31A9 /* Debug */,
+				C016A4AE62FF1A8435AA5F93 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Debug;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 8E63E96C3FDD9E731CCFB06F /* Project object */;
+}
